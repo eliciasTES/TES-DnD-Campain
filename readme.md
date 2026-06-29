@@ -1,120 +1,222 @@
-# 📜 Elder Scrolls Oblivion Campaign
+# 📜 Elder Scrolls Campaign Database
 
-Welcome to the repository for the Elias & Virel campaign, set in the Elder Scrolls universe.
+Welcome to the repository for the **Elias & Virel** campaign, set in the Elder Scrolls universe.
 
-This repo organizes all major content for easy reference while playing.
+This project is designed as a relational world database for tracking characters, locations, equipment, quests, factions, and other game content. While originally created for roleplaying in the Elder Scrolls games, the database is structured to support a tabletop-style RPG campaign with interconnected world data.
 
-## 📂 Directory Structure
+---
 
-```bash
-elder-scrolls-campaign/
-elder-scrolls-rp/
-│
-├── README.md              # Homepage/overview
-│
-├── characters/             # All player and notable NPC characters
-│   ├── virel.md
-│   ├── elias.md
-│   └── ...
-│
-├── equipment/              # Weapons, armor, artifacts, items
-│   ├── helmet_of_stendarr.md
-│   ├── blade_of_woe.md
-│   └── ...
-│
-├── factions/               # Factions, covens, guilds
-│   ├── dark_brotherhood.md
-│   ├── hagraven_coven.md
-│   └── ...
-│
-├── spells/                 # Spells, shouts, enchantments
-│   ├── whispering_shadow.md
-│   ├── call_of_the_ancients.md
-│   └── ...
-│
-├── quests/                 # Quests and quest arcs
-│   ├── rebuild_helgen.md
-│   ├── helmet_of_stendarr_quest.md
-│   └── ...
-│
-├── locations/              # Holds and their locations
-│   ├── falkreath/
-│   │   ├── _overview.md         # General overview of Falkreath Hold
-│   │   ├── falkreath_city.md    # Capital
-│   │   ├── dark_brotherhood_sanctuary.md
-│   │   ├── helgen.md
-│   │   ├── orphan_rock.md
-│   │   ├── moss_mother_cavern.md
-│   │   ├── fort_neugrad.md
-│   │   └── ... (other sites)
-│   │
-│   ├── whiterun/
-│   │   ├── _overview.md
-│   │   ├── dragonsreach.md
-│   │   ├── jorrvaskr.md
-│   │   └── ...
-│   │
-│   └── ... (other holds)
-│
-└── misc/                   # Extras (maps, timelines, notes)
-    ├── world_timeline.md
-    ├── religious_cults.md
-    └── ...
+# 🏛️ Design Philosophy
 
+Every major entity in the world has:
 
+* An internal database ID
+* A unique `*_code` used for stable references
+* Gameplay data
+* Lore and descriptive information
+
+Relationships between entities are made through these unique codes rather than duplicated text.
+
+For example:
+
+* Weapons reference locations.
+* Characters reference equipment.
+* Quests reference locations, factions, and characters.
+* Locations form a hierarchy using `parent_location_code`.
+
+This keeps the world organized, scalable, and easy to query.
+
+---
+
+# 📂 Current Database Modules
+
+## Characters
+
+Represents player characters, NPCs, companions, merchants, rulers, and other individuals.
+
+Examples:
+
+* Elias
+* Virel
+* Jarl Balgruuf
+
+---
+
+## Weapons
+
+Stores all melee, ranged, and artifact weapons.
+
+Examples:
+
+* Steel Sword
+* Silver Sword
+* Dawnbreaker
+
+---
+
+## Armor
+
+Stores wearable equipment.
+
+Examples:
+
+* Steel Cuirass
+* Helmet of Stendarr
+
+---
+
+## Magic
+
+Stores spells, shouts, powers, and magical abilities.
+
+Examples:
+
+* Fireball
+* Healing
+* Whispering Shadow
+
+---
+
+## Locations
+
+A hierarchical world map using `parent_location_code`.
+
+Example:
+
+```text
+Skyrim
+└── Whiterun Hold
+    └── Whiterun
+        ├── Wind District
+        │   └── Dragonsreach
+        │       └── Great Porch
+        ├── Bannered Mare
+        └── Breezehome
 ```
 
-## 📚 Sections Overview
+Supported location types include:
 
-### Characters
-- Name, Race, Class
-- Quick description
-- Gear Loadout
-- Core Abilities
-- Story Hooks
-- Relationships
-
-### Weapons/Armor/Equipment
-- Name
-- Description
-- Properties/Enchantments
-
-### Spells
-- Name
-- Description
-- Effects
-
-### Locations
-- Name
-- Short description
-- Key events that occurred here
-
-### Factions
-- Name
-- Description
-- Important members
-- Relations to characters
-
-### Quests/Arcs
-- Quest Name
-- Objective
-- Status (Not Started / In Progress / Completed)
-- Notes on complications, decisions made
-
-### Visuals/References
-- Art references for characters, locations, or items
-- Maps if needed
+* Province
+* Hold
+* City
+* District
+* Building
+* House
+* Inn
+* Temple
+* Cave
+* Dungeon
+* Ruin
+* Tower
+* Fort
+* Camp
+* Room
 
 ---
 
-## 📅 Optional Expansion Ideas
-- **Session Logs** (short post-session notes)
-- **Item Collections** (rare artifacts, unique items)
-- **NPC Sheets** (for important side characters)
+## Factions
+
+Organizations, governments, guilds, religious orders, criminal groups, and noble houses.
+
+Examples:
+
+* Kingdom of Whiterun
+* The Companions
+* Order of Stendarr
 
 ---
 
-> "Trust is like glass in the hands of mages — brilliant but fragile." — Unknown Tribunal exile
+## Quests
+
+Stores quests and quest chains.
+
+Each quest can reference:
+
+* Quest giver
+* Start location
+* End location
+* Faction
+* Reward item
+* Previous/next quests
 
 ---
 
+# 🔗 Entity Relationships
+
+The database is designed around connected entities.
+
+Examples:
+
+```text
+Character
+    ├── belongs to → Faction
+    ├── equips → Weapon
+    ├── equips → Armor
+    └── lives at → Location
+
+Quest
+    ├── starts at → Location
+    ├── ends at → Location
+    ├── given by → Character
+    └── rewards → Item
+
+Location
+    └── parent → Location
+
+Faction
+    ├── headquartered at → Location
+    └── led by → Character
+```
+
+---
+
+# 📖 Lore Documentation
+
+While structured gameplay data is stored in SQLite, Markdown documents are still useful for long-form content such as:
+
+* Character biographies
+* Historical timelines
+* Session logs
+* Maps
+* Artwork
+* Worldbuilding notes
+* Story outlines
+
+---
+
+# 🚀 Future Database Modules
+
+Planned additions include:
+
+* Creatures
+* NPCs
+* Races
+* Skills
+* Perks
+* Deities
+* Religions
+* Organizations
+* Crafting Recipes
+* Ingredients
+* Alchemy
+* Books
+* Dialogue
+* Merchants
+* Inventory
+* Character Factions
+* Quest Objectives
+* World Events
+
+---
+
+# 🎯 Goals
+
+* Create a fully connected Elder Scrolls world database.
+* Separate gameplay data from creative writing.
+* Make all entities searchable and reusable.
+* Support long-running roleplaying campaigns.
+* Provide a foundation for future tools such as encounter generators, quest generators, NPC generators, and campaign management software.
+
+---
+
+> "Every legend begins as a single record."
