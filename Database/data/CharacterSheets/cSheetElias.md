@@ -65,7 +65,7 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 
 **Signature Details:**
 - Ringed insignia etched into armor seams (dual faith symbolism)  
-- Constant faint glow beneath skin when divine magic is active  
+- Constant faint glow on new wounds and old scars when divine magic is active  
 - Weapons appear “clean” but always faintly stained in supernatural residue  
 
 ---
@@ -80,17 +80,20 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 **Motivations:**
 - Destroy corruptive undead and cult systems before they propagate  
 - Understand whether divine “chosen status” is real or engineered manipulation  
-- Maintain internal control over conflicting Namiran and Meridia influences  
+- Maintain internal control over conflicting Namiran and Meridia influences
+- Protect and assist Virel in her own quest for truth and freedom from her past.  
 
 **Flaws:**
 - Emotional compartmentalization bordering on dissociation  
 - Over-relies on ideological frameworks to justify violence  
-- Slow to trust, even slower to forgive  
+- Past betrayals make him slow to trust, even slower to forgive 
+- Disillusionment with organizaed factions and governing bodies. A willing exlile.
 
 **Relationships:**
 - **Virel:** Deep mutual understanding; unspoken emotional dependency forming under shared exile trauma  
 - **Namira (Influence):** Secretive, dangerous internal pull toward entropy-through-feeling  
-- **Meridia (Influence):** Guiding but uncompromising presence that demands purity through action, not intention  
+- **Meridia (Influence):** Guiding but uncompromising presence that demands purity through action, not intention 
+
 
 ---
 
@@ -171,7 +174,7 @@ Elias Venym was never meant to be a chosen instrument of opposing divinities.
 
 He was taken first by hunger, not faith.
 
-Born into obscurity and consumed by a Namiran cannibal cult, he was marked as both offering and sustenance in a ritual cycle that saw suffering as communion. But Elias did not break as expected. He adapted. Learned. Survived in ways that made him dangerous even before he understood why.
+Born into obscurity and consumed by a Namiran cannibal cult, he was marked as both offering and sustenance in a ritual cycle that saw suffering as communion. But Elias did not break as expected. He adapted. Learned. Survived in ways that made him dangerous even before he understood why. Over time the life-siphoning rituals led by his brethren, designed to weaken a victim, made him grow stronger and opened his eyes to more than just pain and suffering.
 
 When he escaped, he did not emerge cleanly into freedom. He was hunted—by those who saw him as stolen property, and by those who saw him as contamination that should not exist outside ritual control.
 
