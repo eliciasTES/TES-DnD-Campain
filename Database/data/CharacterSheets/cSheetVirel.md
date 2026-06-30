@@ -86,23 +86,22 @@ Slim, articulated boots for quiet steps.
 
 ## Skills & Magic
 
-- Illusion Mastery
-→
+- **Illusion Mastery**  
+→ Expert manipulation of perception, memory, and sensory input. Virel uses illusion magic not for deception alone, but for destabilizing enemy cognition and battlefield awareness.
 
-- Alteration Mastery
-→
+- **Alteration Mastery**  
+→ Skilled in reshaping magical and physical properties of the environment, including defensive wards, resistance suppression, and structural manipulation of arcane forces.
 
-- Shadowmancy 
-→ Custom alteration-illusion hybrid developed in Morrowind by the Ancient Dunmer.
+- **Shadowmancy (Hybrid Discipline)**  
+→ A rare blend of Alteration and Illusion developed through corrupted Tribunal study. Allows manipulation of shadow, perception gaps, and metaphysical concealment.
 
-Stealth and infiltration 
-→ 
+- **Stealth and Infiltration**  
+→ Highly trained in silent movement, environmental reading, and infiltration of sacred or heavily guarded sites, particularly ruins and temple structures.
 
-s
-→
+- **Tribunal Ritual Knowledge**  
+→ Deep understanding of Temple rites, liturgical structure, and ceremonial magic, including corrupted or forbidden variants no longer practiced by orthodox clergy.
 
-s
-→
+---
 
 ## Signature Abilities
 
