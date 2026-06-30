@@ -94,6 +94,61 @@ A man who turned probability into a profession and risk into currency.
 - Overconfidence in reading people’s intentions  
 - Loyalty is conditional, not deeply rooted  
 
+----
+
+## Gear & Equipment
+
+**Guild Shadow Leather Armor**  
+→ Light, flexible armor used by senior Thieves Guild operatives. Designed for mobility, concealment, and silent movement in urban environments. Reinforced in key areas for survival during unexpected combat.
+
+**Steel Dagger (Utility Grade)**  
+→ Practical blade carried for emergencies, lockwork, and close-quarters defense. Not ornate or ceremonial, reflecting Brynjolf’s preference for function over symbolism.
+
+**Lockpick Master Kit**  
+→ Professionally curated set of picks, tension tools, and specialty instruments used for a wide range of locks, traps, and security systems across Skyrim.
+
+**Riften Ledger of Operations**  
+→ Private record of guild activity, contacts, recruitment notes, and economic flow tracking. Used to monitor stability and opportunity within the Thieves Guild network.
+
+**Coinpurse Network Satchel**  
+→ Secure pouch system for handling guild funds, bribes, and distributed earnings. Designed for discretion and quick transaction handling in the field.
+
+---
+
+## Skills & Magic
+
+**Master Lockpicking**  
+→ Exceptional ability to bypass mechanical and magical locks through pattern recognition, tactile feedback, and structural intuition.
+
+**Street-Level Strategy**  
+→ Deep understanding of urban systems, criminal economies, guard behavior, and social manipulation within city environments.
+
+**Pickpocketing & Subtle Theft**  
+→ Highly skilled in acquiring valuables without detection, often exploiting timing, distraction, and crowd movement.
+
+**Guild Operations Management**  
+→ Capable of organizing recruits, assigning tasks, and maintaining the flow of Thieves Guild activities without destabilizing internal structure.
+
+**Social Adaptation**  
+→ Reads individuals quickly to determine usefulness, risk level, and potential for recruitment or exploitation.
+
+---
+
+## Signature Abilities
+
+**Opportunity Sight**  
+→ Instinctively identifies weaknesses in systems, routines, and individuals that can be converted into profit or strategic advantage.
+
+**Silent Negotiator**  
+→ Handles bribes, contracts, and sensitive guild arrangements without escalating conflict or attracting unwanted attention.
+
+**Network Webbing**  
+→ Maintains a broad web of contacts across Skyrim’s cities, allowing rapid access to information, resources, and hidden services.
+
+**Adaptive Flow Control**  
+→ Adjusts guild activity and personal involvement dynamically based on political pressure, economic opportunity, or internal threats.
+
+----
 
 ## Relationships
 

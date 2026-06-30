@@ -80,6 +80,59 @@ A hunter who does not distinguish between survival and purpose—only between wh
 
 ---
 
+
+## Gear & Equipment
+
+**Companion’s Light Nordic Armor (Modified Huntress Set)**  
+→ Lightweight, practical armor favored by Aela for mobility and stealth in wilderness engagements. Reinforced leather and steel components provide protection without restricting movement during tracking or ambush hunting.
+
+**Skyforge Steel Bow**  
+→ Primary ranged weapon crafted in Whiterun’s Skyforge. Balanced for rapid draw speed and consistent power, optimized for hunting both beasts and humanoid targets at range.
+
+**Nordic Hunting Daggers (Twin Set)**  
+→ Paired blades used for close-quarters combat, skinning, and finishing wounded targets. Kept razor-sharp and always within immediate reach.
+
+**Wolf Fang Amulet**  
+→ Totemic symbol tied to her devotion to Hircine and the Companions’ beast traditions. Represents her acceptance of the hunt as both instinct and identity.
+
+**Hunter’s Field Kit**  
+→ Includes arrows, traps, animal snares, curing agents, sharpening tools, and survival supplies designed for extended wilderness tracking.
+
+---
+
+## Skills & Magic
+
+**Expert Archery**  
+→ Highly skilled in bow combat, emphasizing precision, speed, and adaptive targeting across moving or distant threats.
+
+**Advanced Tracking**  
+→ Exceptional ability to follow prey through wilderness environments using environmental cues, scent patterns, and behavioral prediction.
+
+**Stealth Movement (Wilderness Specialist)**  
+→ Naturally adept at remaining unseen in forested, mountainous, and tundra environments, particularly during hunts.
+
+**Beast Combat Adaptation**  
+→ Experienced in fighting large and dangerous creatures, adjusting tactics dynamically based on size, speed, and aggression.
+
+**Companion Combat Conditioning**  
+→ Trained in coordinated hunting and battlefield engagements alongside other Companions, with strong instincts for pack-based warfare.
+
+---
+
+## Signature Abilities
+
+**Huntress’s Mark**  
+→ A focused targeting instinct that allows Aela to identify weak points in moving or distant targets with near-instant precision.
+
+**Predator’s Instinct**  
+→ Heightened situational awareness in wilderness environments, allowing her to detect threats before they become visible or audible.
+
+**Unbroken Pursuit**  
+→ Once a target is identified, Aela maintains relentless tracking pressure with minimal loss of focus or efficiency over time.
+
+**Beastblood Reflex**  
+→ Enhanced reaction speed and combat instincts tied to her lycanthropic nature, improving performance in fast, chaotic engagements.
+
 ## Relationships
 
 - **Kodlak Whitemane:** Respected leader; represents restraint she does not fully adopt  

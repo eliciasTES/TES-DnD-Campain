@@ -78,6 +78,59 @@ A man who treats magic as commerce and knowledge as inventory.
 - Avoids direct involvement in consequences of his trade  
 - Underestimates ethical fallout of arcane distribution  
 
+## Gear & Equipment
+
+**Enchanted Traveler's Robes**  
+→ Reinforced with subtle warding enchantments that protect against magical backlash while remaining practical for long journeys between cities and ruins.
+
+**Arcane Merchant's Satchel**  
+→ Contains rare spell tomes, enchanted jewelry, soul gems, scrolls, and magical curiosities acquired through years of discreet trade.
+
+**Runed Elven Dagger**  
+→ Elegant but functional weapon carried for emergencies. Enhanced with a minor shock enchantment designed to discourage pursuit rather than win prolonged fights.
+
+**Master Soul Gem Case**  
+→ Carefully organized collection of filled and empty soul gems used for enchanting, research, and negotiation with fellow mages.
+
+**Correspondence Archive**
+→ Leather-bound collection of coded letters, research notes, trade agreements, and private communications connecting Enthir to scholars, merchants, and collectors across Tamriel.
+
+---
+
+## Skills & Magic
+
+**Expert Enchanting**
+→ Deep understanding of magical item creation, enchantment theory, and soul gem manipulation developed through decades of study and commerce.
+
+**Arcane Appraisal**
+→ Can quickly determine the magical properties, historical significance, and approximate value of enchanted artifacts.
+
+**Conjuration Mastery**
+→ Skilled in summoning atronachs and bound weaponry, favoring reliable magical servants over direct confrontation.
+
+**Mercantile Negotiation**
+→ Exceptional talent for acquiring rare magical goods through diplomacy, favors, and carefully managed business relationships.
+
+**Magical Research**
+→ Experienced in identifying forgotten spells, deciphering ancient magical texts, and reconstructing incomplete arcane theories.
+
+---
+
+## Signature Abilities
+
+**Arcane Broker**
+→ Leverages an extensive network of scholars, collectors, and independent mages to acquire magical knowledge and rare artifacts unavailable through conventional channels.
+
+**Soulbound Insight**
+→ Examines enchanted objects to identify weaknesses, hidden enchantments, and opportunities for restoration or enhancement.
+
+**Planar Recall**
+→ Rapidly summons prepared conjurations or bound equipment through practiced magical precision, allowing him to adapt to changing situations without lengthy rituals.
+
+**Scholar's Preparation**
+→ Maintains an unusually broad reserve of scrolls, enchanted items, and magical contingencies, ensuring he is rarely caught without an appropriate solution to an arcane problem.
+
+
 ---
 
 ## Relationships

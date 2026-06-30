@@ -80,6 +80,60 @@ A professional killer shaped by war, experience, and the necessity of making vio
 
 ---
 
+
+## Gear & Equipment
+
+**Brotherhood Contract Armor**  
+→ Well-maintained Dark Brotherhood armor designed for long-term field assignments, balancing protection, mobility, and concealment without unnecessary ornamentation.
+
+**Redguard Scimitar**  
+→ A finely crafted curved blade favored for its speed, precision, and reliability in close-quarters combat. Kept meticulously sharpened through years of professional use.
+
+**Contractor's Dagger**  
+→ Compact backup weapon carried for silent eliminations, utility work, and emergencies when a primary weapon cannot be drawn.
+
+**Assassin's Ledger**
+→ Personal journal containing contract records, payment histories, operational notes, and observations on successful assassination methods accumulated over decades.
+
+**Field Operative's Kit**  
+→ Organized collection of lockpicks, poisons, alchemical supplies, maps, disguises, and survival equipment prepared for extended assignments.
+
+---
+
+## Skills & Magic
+
+**Professional Assassination**
+→ Extensive experience executing contracts efficiently with careful planning, disciplined timing, and minimal unnecessary risk.
+
+**Operational Planning**
+→ Skilled at evaluating targets, identifying vulnerabilities, and developing reliable approaches before committing to an operation.
+
+**One-Handed Swordsmanship**
+→ Highly proficient with curved blades, emphasizing speed, precision, and economy of movement over overwhelming force.
+
+**Stealth & Surveillance**
+→ Expert at gathering intelligence, observing routines, and remaining unnoticed while preparing for contract execution.
+
+**Poison Application**
+→ Experienced in selecting and applying toxins that complement specific targets, environments, and operational objectives.
+
+---
+
+## Signature Abilities
+
+**Contract Execution**
+→ Methodically exploits weaknesses in a target's routine, allowing carefully planned eliminations with exceptional efficiency and minimal exposure.
+
+**Veteran's Instinct**
+→ Years of experience allow Nazir to recognize dangerous situations, hidden threats, and operational failures before they fully develop.
+
+**Professional Detachment**
+→ Maintains remarkable composure under pressure, preventing emotion, fear, or personal bias from interfering with mission objectives.
+
+**Silent Coordinator**
+→ Organizes multiple contracts, personnel, and logistical resources simultaneously, ensuring Brotherhood operations remain efficient even under difficult circumstances.
+
+
 ## Relationships
 
 - **Dark Brotherhood:** Long-standing senior operative and stabilizing presence  
@@ -88,7 +142,6 @@ A professional killer shaped by war, experience, and the necessity of making vio
 - **Fellow Veterans:** Treats as professional equals based on competence  
 
 
-## Background
 
 ## Background
 

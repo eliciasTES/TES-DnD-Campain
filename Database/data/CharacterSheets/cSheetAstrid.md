@@ -84,6 +84,60 @@ A killer who does not separate survival, family, and murder—she integrates the
 
 ---
 
+
+## Gear & Equipment
+
+**Dark Brotherhood Custom Armor**  
+→ Modified assassin armor tailored for leadership and field command. Balances stealth with light protection, designed for mobility during contracts and rapid response to threats against the Sanctuary.
+
+**Blade of Woe**  
+→ Astrid’s signature dagger and a defining relic of her authority within the Dark Brotherhood. A finely crafted blade used for silent executions, symbolizing both personal command and the Brotherhood’s tradition of decisive, ritualized killing.
+
+**Poison Crafting Kit**  
+→ Compact alchemical tools used to prepare tailored toxins for contracts. Kept close at hand for adapting kills to target weaknesses and environmental constraints.
+
+**Concealed Field Tools**  
+→ Hidden lockpicks, smoke powders, climbing cord, and disguises integrated into her gear for contingency escapes and infiltration support.
+
+**Black Sacrament Ritual Implements**  
+→ Carefully maintained ceremonial components used to oversee contract initiation and ensure proper adherence to Dark Brotherhood tradition.
+
+---
+
+## Skills & Magic
+
+**Master Assassin Training**  
+→ Expert-level proficiency in stealth elimination, close-quarters killing, and precision contract execution developed through years of field experience.
+
+**Command Authority**  
+→ Natural leadership ability within the Dark Brotherhood, capable of organizing operatives, assigning contracts, and maintaining order in unstable situations.
+
+**Advanced Stealth Tactics**  
+→ Skilled in infiltration planning, environmental analysis, and identifying optimal kill conditions before engagement.
+
+**Interrogation Insight**  
+→ Strong ability to read intent, deception, and psychological pressure in both allies and targets.
+
+**Poison Application Mastery**  
+→ Efficient in selecting and deploying toxins suited for specific assassination scenarios.
+
+---
+
+## Signature Abilities
+
+**Blade of Woe Execution**  
+→ A precise, silent kill technique centered around Astrid’s signature blade, emphasizing control, certainty, and ritualized elimination of high-value targets.
+
+**Contract Leadership**  
+→ Coordinates Brotherhood operations with structured authority, ensuring missions are assigned, executed, and completed according to internal doctrine.
+
+**Predator’s Discipline**  
+→ Maintains emotional control during assassinations and leadership decisions, preventing hesitation from compromising operational success.
+
+**Silent Directive**  
+→ Communicates intent through minimal cues and pre-established operational understanding, enabling coordinated assassinations without explicit instruction in the field.
+
+
 ## Relationships
 
 - **The Dark Brotherhood:** Treats as both family and weapon system  

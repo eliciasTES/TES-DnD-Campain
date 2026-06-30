@@ -85,6 +85,60 @@ A warrior defined not by fury or glory, but by restraint under pressure.
 
 ---
 
+## Gear & Equipment
+
+**Companion’s Heavy Steel Armor**  
+→ Well-maintained heavy armor worn by senior members of the Companions. Designed for frontline combat, emphasizing durability and protection over mobility. Shows extensive wear from years of battle in contracts, wars, and beast hunts.
+
+**Nordic Greatsword (Battle-Worn)**  
+→ Vilkas’s primary weapon, a heavy two-handed sword optimized for decisive strikes and battlefield control. Forged for power and endurance rather than finesse, reflecting his direct combat philosophy.
+
+**Hunting Knife**  
+→ Secondary blade used for utility work, skinning, and close-quarters contingencies when the greatsword is impractical.
+
+**Companions Insignia Amulet**  
+→ Symbol of membership in the Circle and loyalty to the Companions’ code. Worn as both identity marker and reminder of responsibility.
+
+**Whetstone & Maintenance Kit**  
+→ Simple but essential tools used to keep weapons and armor in working condition after frequent combat engagements.
+
+---
+
+## Skills & Magic
+
+**Two-Handed Weapon Mastery**  
+→ Highly trained in greatsword combat, focusing on power, timing, and breaking enemy formations through overwhelming force.
+
+**Battlefield Discipline**  
+→ Maintains composure in large-scale engagements, able to assess threats and reposition effectively even in chaotic combat scenarios.
+
+**Beast Hunting Expertise**  
+→ Experienced in tracking and eliminating dangerous creatures, often in coordination with other Companions.
+
+**Shieldless Defense Training**  
+→ Relies on armor, footwork, and weapon control rather than shields, emphasizing offense as a form of defense.
+
+**Tactical Awareness (Combat Focused)**  
+→ Reads enemy movement patterns and adapts strike timing to exploit openings during extended engagements.
+
+---
+
+## Signature Abilities
+
+**Greatsword Execution**  
+→ A decisive combat technique built around powerful finishing blows intended to end fights quickly once an opening is created.
+
+**Companion’s Vigor**  
+→ Gains increased endurance and combat focus when fighting alongside trusted allies or in defense of Companions’ interests.
+
+**Iron Resolve**  
+→ Resists fear, stagger effects, and psychological pressure during prolonged combat situations.
+
+**Frontline Breaker**  
+→ Specializes in engaging heavily armored or large targets, using strength and timing to disrupt enemy formations.
+
+----
+
 ## Relationships
 
 - **Farkas:** Brother; instinctive counterpart and emotional balance to his restraint  

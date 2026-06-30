@@ -80,6 +80,59 @@ A warrior of immense strength constrained by a gentle and uncertain mind.
 
 ---
 
+
+## Gear & Equipment
+
+**Companion’s Heavy Steel Armor**  
+→ Standard heavy armor worn by members of the Companions. Built for frontline engagements, it prioritizes durability and protection over mobility. Farkas’s set shows constant repair and reinforcement from repeated combat injuries sustained in contract work and beast hunts.
+
+**Skyforge Steel Greatsword**  
+→ Farkas’s primary weapon. A massive two-handed greatsword forged in Whiterun’s Skyforge. Designed for overwhelming strikes rather than precision, it reflects his direct, uncomplicated approach to combat.
+
+**Hunting Knife**  
+→ Simple utility blade used for skinning, field repairs, and close-range emergencies when heavy weapons cannot be drawn.
+
+**Companions Shield Token (Insignia Gear)**  
+→ A symbolic marker of his membership in the Companions. While he does not fight with a shield in practice, the insignia represents his loyalty to the Circle and its code.
+
+**Whetstone and Field Repair Kit**  
+→ Basic maintenance tools for keeping weapons functional during extended hunts or wilderness contracts.
+
+---
+
+## Skills & Magic
+
+**Two-Handed Weapon Mastery**  
+→ Farkas specializes in brute-force greatsword combat, relying on raw strength, timing, and momentum to break enemy defenses.
+
+**Heavy Armor Combat Conditioning**  
+→ Trained to fight effectively while fully armored, maintaining endurance and stability even under sustained pressure.
+
+**Beast Hunting Expertise**  
+→ Experienced in tracking and eliminating dangerous creatures across Skyrim’s wilderness, often in harsh environmental conditions.
+
+**Close-Range Combat Resilience**  
+→ Excels when fights become chaotic and personal, relying on toughness and persistence rather than technique or finesse.
+
+**Basic Tactical Awareness**  
+→ Understands simple battlefield positioning and threat prioritization, but relies heavily on instinct and direct engagement.
+
+---
+
+## Signature Abilities
+
+**Brute Force Execution**  
+→ Overwhelms opponents with direct, heavy strikes designed to end fights quickly once an opening is created.
+
+**Companion’s Endurance**  
+→ Can sustain prolonged combat and physical strain longer than most warriors due to conditioning and experience in extended hunts.
+
+**Iron Hide Conditioning**  
+→ Naturally resistant to stagger, intimidation, and physical disruption while in heavy armor.
+
+**Unyielding Charge**  
+→ A direct engagement style that prioritizes closing distance quickly and forcing melee confrontation regardless of risk.
+
 ## Relationships
 
 - **Vilkas:** Protective older-brother dynamic; often guided by him in decisions  

@@ -80,6 +80,60 @@ A warrior who built his life on honor, then spent his final years questioning wh
 
 ---
 
+
+## Gear & Equipment
+
+**Companion’s Silver-Blessed Steel Armor**  
+→ Worn and reforged heavy armor of the Companions’ Harbinger. Treated with subtle silver infusions and ritual care to better withstand the presence of werewolf corruption and supernatural threats. More ceremonial in meaning than refinement in appearance, it reflects long service rather than ornamentation.
+
+**Harbinger’s Nordic Greatsword**  
+→ A Skyforge-forged two-handed sword kept in functional but restrained condition. Kodlak does not rely on excessive embellishment or enchantment, instead favoring a weapon that represents discipline and control rather than brutality.
+
+**Wolf Totem Amulet Fragment**  
+→ A spiritual relic tied to his internal struggle with lycanthropy. Kept hidden or worn depending on circumstance, it represents his fractured relationship with the Beast Blood and his desire for release from it.
+
+**Companions Council Ring**  
+→ Symbol of leadership within the Circle and administrative authority over the Companions. Worn during council decisions and formal judgments.
+
+**Travel Worn Cloak of Whiterun**  
+→ Simple, fur-lined cloak suited for Skyrim’s harsh climate. Serves practical protection rather than status display, consistent with Kodlak’s humility.
+
+---
+
+## Skills & Magic
+
+**Veteran Two-Handed Combat**  
+→ Highly experienced greatsword fighter, though rarely aggressive. Kodlak’s technique emphasizes control, restraint, and defensive positioning rather than overwhelming force.
+
+**Strategic Leadership**  
+→ Long-standing Harbinger capable of guiding the Companions through political pressure, internal conflict, and external threats while maintaining organizational cohesion.
+
+**Beast Lore Understanding**  
+→ Deep knowledge of lycanthropy, beast behavior, and cursed transformations gained through personal experience and decades of observation.
+
+**Heavy Armor Discipline**  
+→ Skilled in maintaining combat readiness in full armor while minimizing wasted movement and energy.
+
+**Judgment-Based Combat Awareness**  
+→ Prefers to assess conflict before engaging, often choosing when *not* to fight as an intentional strategic decision.
+
+---
+
+## Signature Abilities
+
+**Harbinger’s Authority**  
+→ Kodlak’s presence stabilizes Companions leadership structures, reducing internal conflict and reinforcing discipline during uncertain situations.
+
+**Beast Within Containment**  
+→ Maintains partial control over his lycanthropic curse through discipline and willpower, preventing full loss of self under normal circumstances.
+
+**Elder’s Resolve**  
+→ Exceptional resistance to fear, intimidation, and supernatural influence, shaped by a lifetime of leadership and internal struggle.
+
+**Measured Strike**  
+→ A combat approach focused on deliberate, decisive attacks used only when necessary, prioritizing resolution over aggression.
+
+
 ## Relationships
 
 - **The Circle of the Companions:** Former comrades bound by shared curse and legacy  

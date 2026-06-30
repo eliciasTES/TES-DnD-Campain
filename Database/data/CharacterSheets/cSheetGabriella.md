@@ -79,6 +79,59 @@ An operative who wins by becoming invisible inside the structure of her target�
 
 ---
 
+## Gear & Equipment
+
+**Black Brotherhood Attire**  
+→ Custom-fitted Dark Brotherhood armor emphasizing silent movement, flexibility, and rapid transitions between stealth and direct engagement.
+
+**Twin Assassin Daggers**  
+→ Matched ebony blades balanced for dual-wielding. Maintained with exceptional precision and favored for swift, decisive eliminations.
+
+**Poison Vial Bandolier**  
+→ Organized collection of specialized toxins, sedatives, and paralysis agents prepared for a wide variety of contracts.
+
+**Field Intelligence Journal**  
+→ Leather-bound notebook containing observations on targets, infiltration routes, noble households, guard routines, and operational lessons from previous assignments.
+
+**Master Infiltrator's Kit**  
+→ Lockpicks, climbing tools, disguises, forged documents, smoke powders, and compact survival supplies arranged for extended covert operations.
+
+---
+
+## Skills & Magic
+
+**Elite Infiltration**
+→ Exceptional ability to penetrate heavily guarded estates, military compounds, and fortified locations through careful planning and disciplined execution.
+
+**Dual-Blade Mastery**
+→ Highly refined close-quarters fighting style built around precision, speed, and seamless coordination between paired weapons.
+
+**Advanced Poisons**
+→ Expert in applying toxins that disable, weaken, or silently eliminate targets without drawing unnecessary attention.
+
+**Surveillance & Reconnaissance**
+→ Patient observer capable of identifying behavioral patterns, security weaknesses, and optimal windows for infiltration.
+
+**Operational Leadership**
+→ Experienced in coordinating complex assassination assignments while maintaining flexibility when conditions unexpectedly change.
+
+---
+
+## Signature Abilities
+
+**Silent Entry**
+→ Identifies overlooked vulnerabilities in even well-defended locations, allowing infiltration without raising alarms or leaving obvious signs of entry.
+
+**Assassin's Precision**
+→ Delivers rapid, calculated strikes aimed at ending confrontations before opponents have time to react or organize a defense.
+
+**Patient Observation**
+→ Studies targets over extended periods, developing a complete understanding of routines, habits, and weaknesses before committing to action.
+
+**Shadow Coordinator**
+→ Directs multiple moving parts of an assassination operation simultaneously, adapting plans in real time while preserving stealth and operational control.
+
+
 ## Relationships
 
 - **Dark Brotherhood:** Functional loyalty based on shared purpose  

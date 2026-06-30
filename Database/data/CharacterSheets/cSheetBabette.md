@@ -80,6 +80,60 @@ A contradiction in form: innocence used as camouflage for predatory intelligence
 
 ---
 
+
+## Gear & Equipment
+
+**Child's Traveler Clothing**  
+→ Simple garments tailored to maintain the appearance of an ordinary orphan while concealing reinforced leather protection beneath the fabric.
+
+**Ancient Vampire Dagger**  
+→ Slim silver-steel blade carried for swift, precise strikes. Well balanced and maintained through centuries of use.
+
+**Master Alchemist's Satchel**  
+→ Extensive collection of rare herbs, fungi, venom sacs, blood extracts, and alchemical tools gathered over a lifetime of experimentation.
+
+**Portable Potion Case**  
+→ Carefully organized assortment of healing potions, restorative elixirs, paralytic toxins, and experimental mixtures for nearly any situation.
+
+**Hidden Curiosity Pouch**  
+→ Contains journals, rare ingredients, preserved specimens, and unusual artifacts collected during decades of travel and study.
+
+---
+
+## Skills & Magic
+
+**Master Alchemy**
+→ One of the Brotherhood's foremost alchemists, capable of producing exceptionally potent poisons, medicines, and experimental compounds.
+
+**Vampiric Physiology**
+→ Enhanced speed, reflexes, senses, and resilience granted through ancient vampirism while maintaining remarkable self-control.
+
+**Illusion Magic**
+→ Uses calming, distraction, and concealment spells to manipulate encounters before violence becomes necessary.
+
+**Social Deception**
+→ Expert at exploiting others' assumptions about children, allowing her to gather information and move unnoticed through populated areas.
+
+**Centuries of Experience**
+→ Possesses an immense reserve of practical knowledge accumulated through generations of changing cultures, politics, and human behavior.
+
+---
+
+## Signature Abilities
+
+**Innocent Facade**
+→ Effortlessly projects the appearance of a harmless child, encouraging others to lower their guard and reveal information they would otherwise conceal.
+
+**Perfect Poison**
+→ Rapidly identifies the ideal toxin for a specific target, environment, or objective, maximizing effectiveness while minimizing unwanted consequences.
+
+**Ancient Instinct**
+→ Draws upon centuries of accumulated experience to recognize subtle behavioral patterns, hidden dangers, and opportunities that others fail to notice.
+
+**Crimson Recovery**
+→ Uses disciplined control of her vampiric nature to rapidly recover from injuries and exhaustion while avoiding the reckless bloodlust that consumes many vampires.
+
+
 ## Relationships
 
 - **Dark Brotherhood:** Long-standing operative with protected status  

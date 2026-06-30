@@ -98,16 +98,6 @@ A professional who treats every barrier as a temporary engineering problem.
 
 ---
 
-## Relationships
-
-- **Brynjolf:** Operational partner; trusts his instincts but not his optimism  
-- **Karliah:** Mutual respect built on competence and shared Guild history  
-- **Mercer Frey:** Represents corrupted leadership and misuse of Guild systems  
-- **Gallus Desidenius:** Idealized legacy figure tied to Guild integrity  
-- **Elias Venym:** Viewed as unpredictable but potentially useful in high-risk scenarios  
-- **Virel:** Treated as an anomaly with unclear access requirements; cautious curiosity rather than trust  
-- **Thieves Guild:** Primary loyalty structure; values its function over its ideology  
-
 
 ## Gear & Equipment
 
@@ -147,6 +137,19 @@ Can enter secured areas without triggering standard detection patterns or enviro
 Maintains composure and efficiency in tight, trap-heavy, or hazardous interior environments.
 
 ---
+
+
+## Relationships
+
+- **Brynjolf:** Operational partner; trusts his instincts but not his optimism  
+- **Karliah:** Mutual respect built on competence and shared Guild history  
+- **Mercer Frey:** Represents corrupted leadership and misuse of Guild systems  
+- **Gallus Desidenius:** Idealized legacy figure tied to Guild integrity  
+- **Elias Venym:** Viewed as unpredictable but potentially useful in high-risk scenarios  
+- **Virel:** Treated as an anomaly with unclear access requirements; cautious curiosity rather than trust  
+- **Thieves Guild:** Primary loyalty structure; values its function over its ideology  
+
+
 
 
 ## Backstory: “The Woman Who Opens What Should Stay Closed”

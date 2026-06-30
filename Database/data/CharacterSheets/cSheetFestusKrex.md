@@ -80,6 +80,60 @@ A scholar who treats assassination as applied science and mortality as an equati
 
 ---
 
+
+## Gear & Equipment
+
+**Archmage’s War Robes (Heavily Modified)**  
+→ Volatile enchantment-laced robes reinforced with layered protective wards. Designed more for magical output than defense, often singed or partially unstable due to experimental alterations.
+
+**Enchanted Bone Wand**  
+→ Crude but highly effective focus instrument carved from reinforced bone and embedded with multiple unstable rune channels for destructive spell amplification.
+
+**Alchemy Component Satchel**  
+→ Disorganized but extensive collection of rare ingredients, including daedra hearts, ash salts, and volatile reagents used in experimental spellcraft.
+
+**Spell Fragment Tomes**  
+→ Damaged and partially reconstructed spellbooks containing unstable or forbidden magical theory, annotated heavily in Festus’s personal shorthand.
+
+**Soul Gem Cluster Harness**  
+→ Belt-mounted arrangement of filled and unfilled soul gems used to fuel rapid experimental casting and enchantment testing.
+
+---
+
+## Skills & Magic
+
+**Destruction Magic Mastery**
+→ Highly advanced proficiency in elemental magic, particularly fire and lightning-based spells with extreme destructive potential.
+
+**Arcane Experimentation**
+→ Specializes in unstable, non-standard spell modifications that push magical theory beyond conventional safety limits.
+
+**Alchemy Integration**
+→ Combines alchemical compounds directly into spellcasting processes to alter spell behavior and increase volatility or potency.
+
+**Enchantment Theory**
+→ Deep understanding of enchantment mechanics, often used to break or reconstruct magical item functionality in unconventional ways.
+
+**Magical Risk Assessment (Theoretical)**
+→ Capable of predicting arcane instability outcomes, though frequently chooses to proceed regardless of predicted consequences.
+
+---
+
+## Signature Abilities
+
+**Volatile Convergence**
+→ Channels multiple elemental forces into a single unstable spell burst, dramatically increasing destructive output at the risk of magical backlash.
+
+**Arcane Overload**
+→ Forces excessive magical energy through a spell matrix, amplifying power far beyond safe operational thresholds.
+
+**Reactive Glyph Casting**
+→ Instantly alters ongoing spells mid-cast by rewriting their rune structure in real time.
+
+**Controlled Catastrophe**
+→ Deliberately triggers localized magical instability in a target area, creating unpredictable but overwhelming battlefield effects.
+
+
 ## Relationships
 
 - **Dark Brotherhood:** Treats as a practical laboratory for applied assassination theory  

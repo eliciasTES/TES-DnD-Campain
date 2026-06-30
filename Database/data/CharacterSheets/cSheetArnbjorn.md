@@ -79,6 +79,59 @@ A controlled predator who functions as both man and monster, depending on necess
 
 ---
 
+## Gear & Equipment
+
+**Black Hand Heavy Armor**  
+→ Reinforced Dark Brotherhood armor modified for durability rather than stealth. Designed to absorb punishment in close combat while still retaining enough flexibility for pursuit and grappling.
+
+**Nordic War Axe (Assassin’s Pattern)**  
+→ Brutal one-handed axe adapted for execution work. Balanced for powerful finishing blows rather than prolonged battlefield engagements.
+
+**Secondary Hunting Knife**  
+→ Simple, practical blade used for skinning, utility work, and silent kills when subtlety is required.
+
+**Wolf Pelt Cloak**  
+→ Thick fur cloak taken from a great wolf, symbolizing his bond with the hunt and providing protection against harsh weather during long tracking assignments.
+
+**Tracker’s Utility Kit**  
+→ Includes rope, traps, sharpening tools, bandages, and basic alchemical supplies for wilderness survival and extended hunts.
+
+---
+
+## Skills & Magic
+
+**Advanced Tracking**  
+→ Exceptional ability to follow targets through wilderness, urban environments, and mixed terrain using subtle environmental cues.
+
+**Close-Quarters Brutality**  
+→ Specialized in overpowering enemies at grappling range using strength, timing, and raw physical dominance.
+
+**Wilderness Survival**  
+→ Highly experienced in surviving extended hunts without support, including tracking in extreme weather conditions.
+
+**Stealth Approach Conditioning**  
+→ While not a traditional infiltrator, Arnbjorn can move quietly when necessary, especially during ambush preparation.
+
+**Target Pressure Combat**  
+→ Skilled at forcing enemies into panic states through relentless pursuit and overwhelming presence.
+
+---
+
+## Signature Abilities
+
+**Beastlike Pursuit**  
+→ Once a target is identified, Arnbjorn maintains unbroken focus, tracking them across long distances with near-unstoppable persistence.
+
+**Execution Momentum**  
+→ Builds combat strength through sustained aggression, becoming increasingly dangerous the longer a fight continues.
+
+**Iron Resolve**  
+→ Resists fear, intimidation, and magical coercion, maintaining combat effectiveness even under extreme psychological pressure.
+
+**Hunter’s Endurance**  
+→ Capable of prolonged physical exertion during extended hunts without significant loss of performance.
+
+
 ## Relationships
 
 - **Astrid:** Primary loyalty anchor and operational commander  
