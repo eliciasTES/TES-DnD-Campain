@@ -163,26 +163,22 @@ A master thief who lived in the space between trust and inevitability—and was 
 
 ## Backstory: *“The Man Who Trusted Shadows Too Much”*
 
-Gallus Desidenius built his life on understanding systems others ignored.
+Gallus Desidenius was the Guildmaster of the Thieves Guild during a period of internal transition, where the organization still struggled between honor-bound tradition and growing corruption. A skilled infiltrator and strategist, he became one of the founding Nightingales in his era, serving Nocturnal not as a zealot but as a controlled agent of balance. His life ended in betrayal at the hands of Mercer Frey, an event that fractured both the Guild and the Nightingale order he helped sustain.
 
-Locks. Guilds. People. Fate.
+Gallus was born into the Imperial heartlands and entered the world of thievery not through desperation, but through aptitude. From an early age, he demonstrated an instinctive understanding of movement, timing, and structure. He did not simply steal—he analyzed systems and found the precise points where they could be bypassed.
 
-To him, everything had a pattern. Everything had a weakness. Even trust.
+This analytical mindset led him into the Thieves Guild, where he quickly rose through the ranks. Unlike many who joined for wealth or survival, Gallus treated the Guild as a structured network with rules, roles, and unspoken boundaries. He believed that even a criminal organization required discipline to avoid collapsing into chaos.
 
-As Guildmaster of the Thieves Guild, he believed control could be maintained through balance—between ambition and restraint, between greed and survival. But the deeper he became entangled with Nightingale influence and Nocturnal’s shadow doctrine, the more he realized some systems did not obey balance at all.
+As his influence grew, Gallus became Guildmaster during a time when the organization was increasingly vulnerable to internal corruption. He worked to reinforce its foundational principles: discretion, precision, and controlled interference in the world above ground. He did not seek to turn the Guild into something lawful, but into something stable.
 
-They demanded surrender.
+It was during this period that Gallus was drawn into the Nightingale pact with Nocturnal. Unlike those who saw the agreement as divine elevation, Gallus approached it as a contract—an extension of the Guild’s balance between luck and skill. He understood that influence in the shadows required not only human organization, but also acknowledgment of forces beyond human control.
 
-His betrayal was not sudden. It was structural. A convergence of ambition, divine manipulation, and human betrayal that collapsed his authority from within.
+As a Nightingale, Gallus functioned as a stabilizing force rather than a worshipper. He treated Nocturnal’s domain as a system of probabilities and consequences rather than divine favor. This perspective allowed him to operate with precision, but also placed him at odds with more devout interpretations of the Nightingale role.
 
-Karliah survived.
+Over time, Gallus became increasingly aware of fractures within the Guild itself. Mercer Frey’s growing influence represented not just personal ambition, but structural corruption within the organization. Gallus began investigating these inconsistencies quietly, building internal awareness without revealing the full scope of his suspicions.
 
-Mercer Frey completed the fracture.
+Before he could act decisively, Gallus was betrayed and killed by Mercer Frey. His death was staged in a way that shifted blame away from Mercer and disrupted the balance Gallus had worked to maintain. The loss destabilized both the Guild and the Nightingale order, severing continuity of leadership and trust.
 
-And Gallus became a lesson rather than a leader.
+In death, Gallus became more of an idea than a person. To Karliah, he became unfinished justice. To the Guild, he became a buried fracture in its history. To the Nightingales, his absence became a warning about the instability of mortal stewardship over forces like Nocturnal.
 
-Even in death, his influence lingers—not as myth, but as caution. The Thieves Guild remembers him not for what he stole, but for what he tried to protect: a fragile equilibrium between shadow and order that could never truly hold.
-
-He did not lose because he was weak.
-
-He lost because trust, once broken in the dark, never returns the same shape.
+When the campaign begins, Gallus exists only through his legacy: the structures he built, the trust he distributed, and the systems he failed to fully secure before his death. His influence continues to shape the actions of Karliah and the remaining Nightingale agents, even as the Guild itself moves further away from the principles he once tried to preserve.

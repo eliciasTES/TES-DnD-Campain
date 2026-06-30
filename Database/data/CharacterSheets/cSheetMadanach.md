@@ -162,24 +162,18 @@ A ruler stripped of crown and throne, who discovered that power survives even wh
 
 ## Backstory: *“The King They Buried Alive”*
 
-Madanach was not born a monster.
+Madanach was once a leader among the Reachmen who believed the people of the Reach should govern themselves. After the Nord reclamation of Markarth, he was imprisoned in Cidhna Mine rather than executed, where he transformed captivity into the center of a growing rebellion. Though many call him a murderer and terrorist, his followers see him as the rightful King of the Reach and the symbol of their people's survival.
 
-He was made into one—by systems that called themselves law.
+Madanach was born among the Reachmen, a people whose history was shaped by repeated wars, occupations, and displacement. From an early age, he learned that the Reach had changed hands many times and that each new ruler claimed ownership of land the Reachmen believed had always belonged to them. These stories became the foundation of his belief that his people would never know peace while they remained subjects of foreign rulers.
 
-Once the recognized King in the Reach, Madanach ruled a people long dismissed as outsiders within their own land. When Markarth changed hands, so did the definition of justice. What followed was not simply imprisonment—it was erasure.
+As he grew older, Madanach proved himself to be both an intelligent leader and a capable strategist. Rather than uniting the Reachmen through fear alone, he appealed to their shared history and traditions. He encouraged the scattered tribes to see themselves as one people, preserving their customs and spiritual practices even while living under constant pressure from outside powers.
 
-Cidhna Mine was meant to break him.
+During the chaos of the Great War, Madanach and his followers seized the opportunity to reclaim Markarth. For a brief time, the Reachmen governed the city themselves. To Madanach, this was not a rebellion but the restoration of what had been taken from his people generations before. To the Nords, however, it was viewed as an occupation that had to be ended.
 
-Instead, it became his coronation chamber.
+When Ulfric Stormcloak led the effort to retake Markarth, Madanach's rule came to an end. He was captured and sentenced to life in Cidhna Mine. Rather than breaking his spirit, imprisonment strengthened his resolve. Within the prison, he established influence over the inmates, organized secret networks of loyal followers, and turned Cidhna Mine into a place where the Forsworn movement could continue to survive beneath the city's foundations.
 
-In darkness, stripped of crown, allies, and name, Madanach discovered that kingship does not require a throne. It requires belief—and suffering is often the strongest foundation belief can stand upon.
+Years of captivity changed Madanach's understanding of power. He came to believe that a ruler did not require a throne or an army to inspire loyalty. As long as the Reachmen continued to remember their history and fight for their homeland, he believed his authority could not truly be taken from him. His imprisonment became another chapter in the story of Reachmen oppression and another reason for his followers to continue resisting Nord rule.
 
-When he emerged, he did not ask for forgiveness.
+Although Madanach genuinely seeks freedom for his people, his methods have become increasingly ruthless over time. He accepts assassination, sabotage, and civilian casualties as necessary sacrifices in a conflict he believes has lasted for centuries. To him, every act of violence committed by the Forsworn is part of a much larger struggle to reclaim the Reach, while every act of violence committed against them only proves that resistance is justified.
 
-He asked for return.
-
-And in that return lies the central question of his existence:
-
-Is he liberator, or consequence?
-
-Or both, depending on who survives to tell the story.
+When the campaign begins, Madanach remains one of the most influential figures in the Reach despite years of imprisonment. Whether confined within Cidhna Mine or leading the Forsworn from the wilderness, he continues working toward the same goal: the restoration of Reachmen independence. To his enemies, he is a dangerous insurgent whose rebellion will never end. To his followers, he is the king who refused to surrender, even after losing his kingdom.

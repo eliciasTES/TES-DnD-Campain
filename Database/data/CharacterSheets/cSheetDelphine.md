@@ -163,20 +163,21 @@ A strategist shaped by war in the shadows, where survival depends on knowing who
 
 ---
 
+
 ## Backstory: *“The Woman Who Decided the World Was Already at War”*
 
-Delphine did not become a Blade because she believed in glory.
+A former Blades operative, she became part of the fragmented effort to rebuild the order after its collapse and near-extermination. Working alongside Esbern and hidden networks of informants, she dedicated herself to identifying and eliminating dragon-related threats before they could escalate into catastrophe. Over time, this mission hardened into a doctrine of preemptive intervention, where survival depended on acting before institutions or prophecies could fail again.
 
-She became one because she believed in inevitability.
+She was born in the smaller holds of High Rock, where political stability was always temporary and security depended more on awareness than authority. Early exposure to border conflicts, mercenary activity, and shifting alliances shaped her understanding that institutions were unreliable, but patterns of behavior were not.
 
-Where others saw peace treaties and political stability, she saw delay. Where others saw dragons as myths, she saw patterns waiting to repeat. And when the Blades fell, she did not mourn an institution—she mourned the loss of preparedness.
+This mindset led her toward covert work rather than formal military service. She developed skills in reconnaissance, infiltration, and counter-intelligence, eventually attracting the attention of the Blades before their fall. At the time, the Blades were already shifting from open dragon slaying to a more fragmented and reactive existence, but their core mission still aligned with her instincts: threats should be eliminated before they grow beyond control.
 
-So she rebuilt what she could.
+When the Blades were destroyed and scattered, she survived by abandoning fixed identity structures entirely. She operated under layered cover identities, including long-term infiltration roles within inns, trade routes, and provincial communication networks. These identities were not simply disguises, but functional systems for gathering information across Skyrim without triggering institutional attention.
 
-Quietly. Carefully. Without permission.
+During the early resurgence of dragon activity, she reconnected with surviving Blades members, most notably Esbern. Together, they began rebuilding an intelligence framework focused on identifying dragon threats before they fully manifested. Unlike the traditional Blades, this new structure relied less on centralized authority and more on distributed field operatives and rapid response elimination protocols.
 
-To Delphine, the world is not safe or unsafe. It is merely in different stages of being unprepared for what is already coming.
+Her experience reinforced a core belief: large systems fail slowly, but dragons act decisively. Because of this, she developed a doctrine of preemptive engagement—if a threat could be confirmed, it should be removed before it could force others into reactive decisions. This approach often placed her at odds with more cautious or philosophical interpretations of dragon-related prophecy and intervention.
 
-And in that worldview, hesitation is not wisdom.
+Her relationship with the Dragonborn is functional rather than ideological. She views them as the most efficient available countermeasure against existential dragon threats, but also as an unpredictable variable requiring constant observation and control. Trust is conditional, based entirely on demonstrated alignment with operational goals rather than personal character.
 
-It is the first step toward extinction.
+When the campaign begins, she operates as a hidden Blades field commander, coordinating intelligence gathering, target tracking, and elimination of dragon threats across Skyrim. She moves between identities as needed, rarely remaining in one place long enough to be politically categorized. Her mission is not to preserve tradition or restore honor, but to ensure that dragons never again reach a point where institutions are forced to respond too late.

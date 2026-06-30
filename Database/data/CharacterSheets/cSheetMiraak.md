@@ -161,26 +161,20 @@ A man who stopped being a person and became a claim over power itself.
 
 ## Backstory: *“The First Dragonborn Who Refused to Be Second to Anything”*
 
-Miraak was not chosen.
+Miraak was the first known Dragonborn, a mortal gifted with the soul of a dragon during the age of the Dragon Cult. Once revered as both priest and champion, he abandoned his duty in pursuit of greater power, eventually binding himself to Hermaeus Mora. Centuries of imprisonment within Apocrypha twisted his ambition into obsession, leaving him determined to prove that no Dragonborn could ever surpass the first.
 
-He took.
+Miraak lived during the Merethic Era, when dragons ruled over Skyrim through the Dragon Cult. Chosen as a Dragon Priest and blessed with the soul of a Dragonborn, he possessed abilities unlike any mortal of his time. He quickly mastered the Thu'um and earned a reputation as one of the most powerful servants of the dragons.
 
-In an age where dragons ruled through fear and the Thu’um defined existence itself, Miraak discovered something more dangerous than power: the ability to claim it without permission. As the first Dragonborn, he did not inherit a legacy—he defined what inheritance meant.
+Although Miraak initially served the Dragon Cult, he grew dissatisfied with his place beneath the dragons. He believed that possessing the soul of a dragon made him greater than ordinary mortals and eventually greater than the dragons themselves. Rather than accepting the hierarchy of the Dragon Cult, he sought knowledge that would allow him to surpass every master he had ever served.
 
-But power attracts attention.
+That search led him to Hermaeus Mora, the Daedric Prince of Knowledge. Mora offered Miraak access to secrets that no dragon or mortal could provide. Hungry for greater power, Miraak accepted the bargain, believing he could use the Prince's knowledge without ever becoming his servant. Each new secret strengthened his abilities, but also drew him further away from the man he had once been.
 
-Hermaeus Mora did not destroy him.
+Armed with forbidden knowledge and unmatched mastery of the Voice, Miraak turned against the dragons. He sought to establish himself as the true master of Solstheim, commanding dragons and followers alike through fear and overwhelming power. His rebellion was driven less by a desire to free others than by his conviction that only he deserved to rule.
 
-He contained him.
+Miraak's ambition ultimately became his downfall. His conflict with the Dragon Cult and his growing dependence on Hermaeus Mora left him trapped within Apocrypha, where the Daedric Prince preserved him as both servant and prisoner. Centuries passed while the world moved on without him, but Miraak never abandoned the belief that his exile was temporary and that his return was inevitable.
 
-Bound within Apocrypha, Miraak spent ages between reality and knowledge, consuming fragments of forbidden truths and sharpening his hatred into structure. What began as imprisonment became philosophy: if he could not escape, he would return stronger than the world that betrayed him.
+Life within Apocrypha gradually eroded what remained of Miraak's humanity. Endless exposure to forbidden knowledge fractured his mind and fed his arrogance. He came to see other people as insignificant and regarded every Dragonborn who followed him as an inferior imitation. His desire for freedom became inseparable from his desire to dominate, until he no longer recognized the difference between reclaiming his destiny and conquering the world.
 
-Every Dragonborn that followed became, to him, evidence of dilution.
+By the time Miraak finds a way to extend his influence back into Tamriel, he is no longer content simply to escape Hermaeus Mora's control. He intends to reclaim his title as the First Dragonborn by absorbing the power of every rival and proving that history should have belonged to him alone. Even his hatred of Hermaeus Mora is rooted in the belief that no being—not dragon, Daedra, or god—has the right to stand above him.
 
-Every hero became proof of regression.
-
-And every attempt to stop him became confirmation that he was still important enough to fear.
-
-He is not merely a villain of history.
-
-He is the idea that power should never be shared—only taken.
+When the campaign begins, Miraak remains bound to Apocrypha, but his influence reaches far beyond its endless libraries. Through corrupted followers, ancient knowledge, and the power of the Thu'um, he works patiently toward his return. He no longer seeks mastery for its own sake; he seeks absolute ownership of power itself, believing that only when every rival has fallen can the First Dragonborn finally reclaim the destiny he believes was stolen from him.

@@ -163,24 +163,20 @@ A silent hunter shaped by betrayal, loss, and the burden of unfinished justice.
 
 ## Backstory: *“The Bow That Outlived Its Master”*
 
-Karliah was never meant to inherit Gallus’ burden.
+Karliah was once a trusted member of the Thieves Guild, working alongside Gallus Desidenius during a time when the Guild still operated under a stronger sense of internal code and restraint. After Gallus was betrayed and murdered by Mercer Frey, Karliah was falsely accused and forced into exile. In the years that followed, she became a Nightingale of Nocturnal, dedicating herself to restoring balance, exposing corruption, and ensuring that the Guild’s betrayal would not be repeated.
 
-She was meant to follow it.
+Karliah began her life in the shadows of Skyrim as a Dunmer who naturally gravitated toward stealth, observation, and survival outside the bounds of conventional society. She eventually found her place within the Thieves Guild, where skill mattered more than origin and reputation was earned through competence rather than birth.
 
-As a Nightingale agent, she operated within a delicate balance between shadow and purpose, believing in a system that demanded secrecy but promised stability. That belief fractured the moment Gallus fell—not as a leader alone, but as a symbol of what trust cost in the dark.
+Within the Guild, Karliah worked closely with Gallus Desidenius, the Guild’s former Guildmaster. Their partnership was built on mutual respect and shared understanding of the Guild’s deeper traditions. Gallus believed the Guild should maintain a code that limited unnecessary violence and preserved internal honor, a belief Karliah came to share over time. Their work together represented what the Guild could be at its best: disciplined, professional, and bound by unspoken principles.
 
-Mercer Frey’s betrayal was not just personal. It was structural collapse.
+That stability collapsed when Mercer Frey betrayed Gallus. Gallus was killed, and Karliah was framed for the crime. The Guild she had served turned against her, and she was forced into exile with no means of defending herself or clearing her name. The betrayal did not simply remove her from the Guild—it severed her trust in the organization she had once believed in.
 
-Karliah survived it, but survival is not the same as recovery.
+In exile, Karliah abandoned open contact with the Guild and devoted herself to uncovering the truth behind Gallus’ death. Her investigation eventually led her to the influence of Nocturnal and the deeper role of the Nightingales, an order that existed not as a public faction but as a hidden balance to corruption within the Guild. Accepting this path was not a matter of devotion, but necessity. It offered her a structure through which she could continue her pursuit of justice without relying on the Guild that had failed her.
 
-In the years that followed, she rebuilt herself not as she once was, but as something quieter, more precise, and far less forgiving of uncertainty. Where Gallus sought systems, Karliah now seeks outcomes. Where he believed in balance, she believes in correction.
+As a Nightingale, Karliah became both guardian and instrument of Nocturnal’s influence, tasked with maintaining balance between fortune and misfortune within the Guild’s unseen workings. She never fully surrendered her identity to the role, instead treating it as an extension of her personal mission rather than a religious calling. Her loyalty remains directed toward the principles she shared with Gallus rather than any institution or divine power.
 
-Yet beneath her discipline remains the echo of what was lost.
+Over time, Karliah became a silent corrective force within the Thieves Guild’s shadow operations. She works from the edges of the organization, intervening only when corruption or betrayal threatens to destabilize its foundations. Her methods are precise and restrained, reflecting a belief that the Guild can only survive if it is periodically forced to confront its own failures.
 
-Not just a guildmaster.
+Despite her distance from others, Karliah remains deeply shaped by her loss of Gallus. His death continues to define her sense of justice and her caution toward trust. She does not form attachments easily, and when she does, they are grounded in observed action rather than words or promises.
 
-Not just a Nightingale.
-
-But the version of herself that once believed trust was not a liability.
-
-Now she walks in shadow not because she must—but because it is the only place where broken things still make sense.
+When the campaign begins, Karliah operates as a Nightingale agent moving between the hidden structures of the Thieves Guild and the influence of Nocturnal. She remains focused on preventing Mercer Frey’s legacy of betrayal from repeating itself, even if it means acting outside Guild approval. To those who encounter her, she appears as a shadow enforcing balance within a system that rarely acknowledges its own fractures. To herself, she is still trying to complete the work that was left unfinished the day Gallus died.

@@ -164,22 +164,20 @@ A mind permanently half-buried in stone, logic, and extinct civilizations.
 
 ## Backstory: *“The Man Who Asked What Stone Remembered”*
 
-Calcelmo did not begin as a great mage.
+Calcelmo is a Breton scholar and court mage of Markarth who has dedicated his life to the study of Dwemer civilization, with a particular focus on tonal architecture, mechanical logic systems, and the underlying principles of their disappearance. His work positions him as one of the most persistent living authorities on Dwemer research in Skyrim, though his methods and intensity often place him at odds with more conventional academic institutions.
 
-He began as a questioner.
+Calcelmo’s early academic career began at the College of Winterhold, where he demonstrated strong aptitude for historical magic theory and artifact analysis. However, his interests quickly diverged from mainstream magical study. While most scholars treated Dwemer ruins as archaeological remnants, Calcelmo began treating them as active systems of logic—structures that continued to express meaning even in the absence of their creators.
 
-While others saw Dwemer ruins as dead remnants of a vanished civilization, Calcelmo saw patterns—intentions frozen in metal and stone. He believed the Dwemer did not simply disappear. They transitioned into something their architecture still partially expresses.
+This perspective led him to reject purely historical interpretations of Dwemer civilization in favor of a more structural approach. He believed that Dwemer ruins, mechanisms, and inscriptions were not static artifacts, but components of an incomplete but still coherent language of reality manipulation. This belief formed the foundation of his lifelong research into tonal architecture.
 
-To him, every ruin is unfinished speech.
+Upon relocating to Markarth and taking up the position of court mage, Calcelmo gained access to extensive Dwemer ruins beneath the city, particularly within Understone Keep. This proximity allowed him to transition from theoretical study to sustained field observation. Over time, he developed a methodology in which Dwemer ruins were treated as “ongoing conversations”—systems that could still be interrogated through correct interpretation and experimentation.
 
-Markarth gave him a home, but not containment. Understone Keep became his laboratory, his archive, and his obsession. Over time, his work shifted from preservation to reconstruction—not of artifacts, but of understanding itself.
+His research gradually became more immersive and less conventional. He began documenting patterns in Dwemer mechanisms that suggested intentional responsiveness rather than purely mechanical repetition. Whether this is due to actual tonal resonance effects or Calcelmo’s interpretive framework is debated among scholars, but within his own methodology, the distinction is irrelevant. What matters is that the system responds.
 
-What others call mystery, Calcelmo treats as incomplete mathematics.
+Calcelmo’s work also extends into the preservation and translation of Dwemer inscriptions, many of which he believes are misinterpreted or incompletely understood by modern scholars. He is highly critical of academic approaches that treat Dwemer disappearance as purely historical mystery, instead insisting it should be treated as an unresolved structural event with ongoing implications.
 
-And what others fear as cursed ruins, he treats as conversations still in progress.
+Despite his brilliance, Calcelmo’s focus on Dwemer systems has led to significant social and institutional isolation. He is often perceived as impatient or dismissive in academic settings, especially when discussions deviate from his preferred logical frameworks. He prioritizes precision over collaboration, and evidence over theoretical plurality, which has limited his influence within broader scholarly circles.
 
-He does not believe the Dwemer are gone.
+His relationship with Dwemer constructs and artifacts is not merely academic—it is interpretive. He does not view them as dead technology, but as active remnants of a civilization that continues to express itself through logic, resonance, and structure. This belief drives both his greatest insights and his most controversial conclusions.
 
-He believes they are still speaking.
-
-And he intends to understand every word.
+When the campaign begins, Calcelmo continues his research within Understone Keep, balancing his role as court mage with increasingly complex Dwemer investigations. He remains convinced that the Dwemer did not simply vanish, but transitioned into a state of systemic absence that can still be studied, and possibly understood, through correct interpretation of their remaining constructs.

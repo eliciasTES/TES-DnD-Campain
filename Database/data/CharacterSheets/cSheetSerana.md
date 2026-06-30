@@ -40,7 +40,7 @@ Versatile battlefield controller combining necromantic resilience, blood magic, 
 ## Appearance
 
 - Pale, cold-toned Nord complexion with faint bluish undertones  
-- Long auburn hair often slightly disheveled from travel or combat  
+- Long dark brown hair often slightly disheveled from travel or combat  
 - Eyes glow faintly gold-red when vampiric power is active  
 - Slim, graceful frame with unnatural stillness in movement  
 - Presence feels quiet but pressurized, like a storm contained in glass  
@@ -161,28 +161,20 @@ A living contradiction: ancient power bound inside someone still learning autono
 
 ## Backstory: *“Born of Chains That Still Remember Her”*
 
-Serana was never given a choice in becoming what she is.
+Born into the Volkihar bloodline, Serana spent centuries trapped between loyalty to her family and the desire to control her own fate. Manipulated, imprisoned, and defined by powers she never truly chose, she eventually broke away from the legacy that shaped her life. Now she travels in search of independence, determined to prove that her future is not dictated by her bloodline.
 
-Her transformation was not an ascent into power, but an experiment in containment—crafted by forces older and more patient than mortal politics. Bound in Coldharbour and shaped by Volkihar ambition, she became both vessel and key to powers she did not consent to inherit.
+Serana was born into the powerful Volkihar clan, where strength, obedience, and devotion to the family's ambitions were valued above personal freedom. From an early age, she was taught that her life served a greater purpose within the lineage. Her future was planned long before she was old enough to decide it for herself.
 
-Her awakening into the modern world was not freedom. It was displacement.
+Her transformation into a Vampire Lord granted immense magical ability but also tied her to expectations she never fully accepted. While others around her embraced power without question, Serana viewed it as both a gift and a prison. She learned powerful forms of blood magic, necromancy, and frost magic, but every lesson reinforced the belief that she existed to serve the ambitions of the Volkihar family rather than her own.
 
-Everything she once knew had decayed or evolved beyond recognition. The people who shaped her existence remained dangerous even in absence. And the world she returned to did not recognize her as anything but a relic of a darker age.
+At various points in her life, Serana became the subject of experiments and manipulation connected to Coldharbour and the forces that sought to exploit the power of pure-blood vampires. Those experiences left lasting emotional scars. Rather than expressing fear or anger openly, she learned to distance herself from painful memories, speaking of horrific events with a calmness that often unsettles those around her.
 
-But Serana did not remain a relic.
+Centuries of isolation changed the way Serana viewed the world. While she became cautious and analytical when facing danger, she also developed an unexpected fascination with ordinary mortal life. Simple experiences—sharing a meal, listening to music, watching people go about their daily routines—became reminders of the life she had been denied for so long.
 
-She adapted.
+Eventually, Serana rejected the future her family had chosen for her. She opposed the ambitions of the Volkihar clan and, when circumstances demanded it, worked alongside the Dawnguard despite knowing many of its members would never fully trust a vampire. Although their goals often aligned, she never considered herself a true member of the order, choosing cooperation over allegiance.
 
-At first out of necessity, then out of choice.
+Life after leaving the Volkihar bloodline has been defined by uncertainty. Serana continues to struggle with the psychological influence of her upbringing and the power that flows through her blood. She refuses to let either determine who she becomes, relying on magical containment techniques and strict self-discipline to prevent her vampiric nature from controlling her actions.
 
-Now she walks beside mortals who fear what she is, respect what she can do, and rarely understand what it costs her to remain controlled. The Volkihar legacy still lingers in her blood like a language she never fully learned to forget.
+During her travels, Serana met Elias and Virel, two fellow outcasts burdened by pasts they did not choose. Their shared experiences of exile, manipulation, and fractured identities formed the foundation of a cautious but genuine trust. Though she rarely admits it openly, she considers them among the few people who see her as more than a vampire.
 
-But she is no longer defined by it.
-
-Not entirely.
-
-For the first time in centuries, Serana is not a weapon, a key, or a failure of someone else’s plan.
-
-She is something far more uncertain.
-
-She is deciding who she is becoming.
+When the campaign begins, Serana travels as an independent mage, no longer serving the Volkihar family or any other organization. She seeks knowledge about her own origins, works against those who would repeat the abuses of her past, and searches for a life in which she can be remembered not for the blood she inherited, but for the choices she makes.

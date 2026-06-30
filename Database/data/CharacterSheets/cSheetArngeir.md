@@ -161,22 +161,18 @@ A man who has reduced existence to breath, silence, and disciplined resonance.
 
 ## Backstory: *“The Man Who Learned That Silence Is Not Absence”*
 
-Arngeir was not always a master of silence.
+Arngeir dedicated his life to the Way of the Voice, believing that true mastery is measured not by the power one possesses, but by the discipline to use it wisely. Through decades of study and meditation at High Hrothgar, he became the senior Greybeard and the foremost living teacher of the Thu'um. Though many see him as withdrawn from the world's struggles, Arngeir believes that preserving wisdom is itself a responsibility to future generations.
 
-He once believed the Voice was meant to be used—to shape the world, to enforce justice, to bring order through power. But under the teachings of the Greybeards, he learned that the Thu’um is not merely sound made divine.
+Arngeir was born in Skyrim and grew up surrounded by the stories of ancient heroes whose Voices could shake mountains and decide the fate of kingdoms. Like many young Nords, he admired these legends and dreamed of the strength they represented. As he matured, however, he became more interested in understanding the purpose behind such power than in possessing it himself.
 
-It is intention made unavoidable.
+His search for meaning eventually led him to High Hrothgar, where he joined the Greybeards and devoted himself to the teachings of Jurgen Windcaller. There he learned that the Thu'um was not simply a weapon, but a sacred gift that demanded humility, patience, and self-control. The Greybeards taught that every spoken word carried consequence, and that true wisdom often required silence instead of action.
 
-Where others see shouting, Arngeir sees consequence. Where others see dragons as enemies, he sees echoes of balance disrupted. And where others rush toward prophecy, he remains still long enough to ask whether prophecy itself should be obeyed at all.
+Years became decades as Arngeir embraced the disciplined life of the monastery. While kingdoms rose and fell across Skyrim, he remained at High Hrothgar, studying the Voice and helping preserve traditions that stretched back to the earliest days of Nordic history. His commitment to the Way of the Voice eventually earned him the respect of his fellow Greybeards, who looked to him for guidance as the order's senior member.
 
-He does not refuse action out of fear.
+Throughout his life, Arngeir witnessed many who sought the power of the Thu'um for personal glory, political influence, or conquest. Each generation reinforced his belief that power without restraint inevitably brought suffering. These experiences strengthened his conviction that the Greybeards must remain independent from the ambitions of kings, armies, and governments, even when the world questioned their silence.
 
-He refuses it out of discipline.
+Arngeir's relationship with the Blades reflects this philosophy. While he acknowledges their long history alongside the Dragonborn, he believes they have allowed duty and conflict to overshadow wisdom and restraint. Likewise, his respect for Paarthurnax comes from seeing a being who chose discipline over domination despite possessing every reason to do otherwise.
 
-Because in his understanding, the greatest danger is not power itself—but power used without understanding what it changes.
+When a new Dragonborn appears, Arngeir views them not as a champion destined to save the world, but as an individual who must learn that great power always carries great responsibility. His role is not to command their choices, but to ensure they understand the consequences of them. Whether they become a hero or a tyrant is a decision only they can make.
 
-And so he waits.
-
-Not because he is idle.
-
-But because silence, when mastered, is the highest form of control.
+When the campaign begins, Arngeir remains at High Hrothgar, serving as the spiritual leader of the Greybeards and guardian of the Way of the Voice. Though he rarely leaves the mountain or intervenes directly in the affairs of Skyrim, his influence reaches far beyond the monastery through those he teaches. He believes that the greatest victory is not defeating an enemy with overwhelming force, but mastering oneself before power can become a source of pride or destruction.

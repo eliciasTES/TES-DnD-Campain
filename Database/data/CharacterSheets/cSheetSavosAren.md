@@ -163,24 +163,20 @@ A scholar-leader who traded personal ambition for institutional survival—and p
 
 ## Backstory: *“The Weight of the Eye That Should Not Have Opened”*
 
-Savos Aren did not become Arch-Mage through ambition alone.
+Savos Aren devoted his life to protecting magical knowledge from those who would misuse it. After surviving a disastrous expedition as a young mage, he came to believe that knowledge without restraint was one of the greatest dangers in Tamriel. As Arch-Mage of the College of Winterhold, he placed the safety of the College and its students above his own ambitions, carrying the weight of past mistakes until the end of his life.
 
-He became it through survival of consequences others could not endure.
+Savos Aren was born in Skyrim and showed exceptional magical talent from a young age. His abilities eventually led him to the College of Winterhold, where he immersed himself in the study of magic. While many of his peers pursued magical power for prestige or personal achievement, Savos viewed magic as a discipline that demanded responsibility as much as talent.
 
-The College of Winterhold has always been a place where curiosity outpaces caution. Savos tried to bridge that gap—not by limiting knowledge, but by building systems strong enough to contain its worst outcomes.
+During his years as a student, Savos joined a group of fellow mages on an expedition to the ancient Nordic ruins of Labyrinthian. What began as an opportunity to prove themselves quickly became a tragedy. The group encountered dangers far beyond their preparation, and the expedition ended in disaster. Savos survived, but several of his companions did not.
 
-But containment is never perfect.
+The experience changed him permanently. He carried deep guilt over the choices made within Labyrinthian and questioned whether greater caution could have prevented the loss of his friends. Rather than abandoning the study of magic, he dedicated himself to ensuring that future mages would not repeat the same mistakes. From that point forward, he valued preparation, discipline, and containment over reckless experimentation.
 
-The incident involving the Eye of Magnus did not merely test his leadership—it defined its cost. Every decision after became shaped by what was lost, what was destabilized, and what could have been prevented with better foresight.
+As his reputation grew, Savos became one of the College's most respected instructors before eventually being chosen as Arch-Mage. He accepted the position not because he sought authority, but because he believed the College needed stable leadership. He understood that Winterhold's reputation had suffered greatly over the years, and he worked to preserve it as a place where dangerous knowledge could be studied responsibly instead of feared or ignored.
 
-He did not see himself as a hero.
+As Arch-Mage, Savos spent much of his time responding to magical crises, settling disputes within the College, and protecting both students and the surrounding region from arcane threats. Years of constant responsibility left him visibly worn. Although he rarely spoke about his personal burdens, those closest to him recognized that every new crisis reminded him of the companions he had lost in Labyrinthian.
 
-He saw himself as a buffer between curiosity and catastrophe.
+When the Eye of Magnus was uncovered beneath Saarthal, Savos approached the discovery with cautious optimism. He recognized its historical importance but understood that such a powerful artifact carried enormous risk. Despite his efforts to manage the situation through established procedures, he failed to recognize the true danger posed by Ancano until it was too late. The resulting catastrophe became the very kind of disaster he had spent his life trying to prevent.
 
-And when that buffer failed, he understood a truth most mages never survive long enough to accept:
+Faced with a threat that endangered not only the College but all of Skyrim, Savos placed himself between the Eye of Magnus and those who sought to abuse its power. He gave his life attempting to contain the crisis, remaining true to the principles that had guided him since his days as a young student. His final actions reflected the belief that the duty of an Arch-Mage was not simply to pursue knowledge, but to accept responsibility for the consequences of it.
 
-Arcane power does not forgive ignorance.
-
-And responsibility does not end with intention.
-
-It ends with outcome.
+When the campaign begins, Savos Aren's legacy continues to shape the College of Winterhold long after his death. He is remembered not as the most powerful Arch-Mage in the College's history, but as one who understood that wisdom is measured by the ability to recognize the dangers of knowledge as well as its promise. His life stands as a reminder that the greatest responsibility of a mage is not learning new spells, but ensuring that power serves others rather than consuming them.

@@ -165,20 +165,18 @@ A man shaped entirely by war logistics, imperial doctrine, and the necessity of 
 
 ## Backstory: *“The Man Who Believed Order Was the Only Mercy War Could Offer”*
 
-General Tullius did not become a commander through ideology.
+A career officer of the Imperial Legion, General Tullius has spent his life fighting wars in service to the Empire. Decades of campaigning taught him that discipline, logistics, and unity—not glory—win conflicts. Sent to Skyrim to end the Stormcloak Rebellion, he views the civil war not as a struggle over identity, but as a dangerous distraction that threatens the stability of the Empire at a time when it can least afford division.
 
-He became one through repetition, discipline, and survival of countless conflicts where emotion cost lives.
+Tullius was born in Cyrodiil and entered the Imperial Legion at a young age. From the beginning of his military career, he distinguished himself through careful planning, discipline, and an ability to keep his soldiers organized under difficult conditions. While others sought personal recognition on the battlefield, Tullius focused on maintaining supply lines, coordinating troop movements, and accomplishing objectives with as little unnecessary loss of life as possible.
 
-To him, war is not glory—it is logistics stretched across broken terrain. Skyrim’s rebellion is not personal betrayal, nor divine destiny, nor cultural awakening. It is, in his mind, a structural instability within an empire that has otherwise maintained centuries of relative order.
+Years of service carried him across the provinces of Tamriel, where he fought in campaigns against bandits, rebels, and foreign armies alike. Every conflict reinforced the same lesson: armies rarely failed because their soldiers lacked courage. They failed because commanders underestimated logistics, allowed discipline to collapse, or let political ambitions interfere with military necessity. These experiences shaped Tullius into a commander who trusted planning more than heroics and viewed emotion as a liability during war.
 
-He does not hate Ulfric Stormcloak.
+By the time he reached the rank of General, Tullius had earned the confidence of the Imperial military through consistent results rather than dramatic victories. He became known as an officer who respected capable subordinates, expected absolute professionalism, and judged people by their competence instead of their background or personal beliefs. To him, a disciplined soldier was more valuable than a celebrated warrior.
 
-He categorizes him.
+Following the Great War, the Empire found itself weakened and facing growing instability across its territories. When rebellion erupted in Skyrim, Tullius was assigned to command the Imperial Legion's campaign in the province. He approached the conflict as another military operation that required decisive resolution. In his view, every month the civil war continued drained Imperial resources, weakened border security, and created opportunities for the Empire's enemies to exploit its divisions.
 
-What others see as freedom, Tullius sees as fragmentation. What others call resistance, he calls inefficiency with consequences.
+Although Tullius respects Ulfric Stormcloak as a capable commander, he believes Ulfric's rebellion places the entire Empire at risk. He understands why many Nords value their traditions, but he considers those concerns secondary to the larger threat facing Tamriel. To Tullius, preserving a united Empire is the only realistic path toward long-term peace and security, even if it requires difficult compromises in the present.
 
-And yet, beneath that rigid structure, there is an unspoken truth he understands but rarely voices:
+Despite his reputation for being cold and inflexible, Tullius does not enjoy war. Years of command have taught him the cost of every campaign, measured not only in victories but in the lives of the soldiers under his command. He prefers negotiations when they serve the Empire's interests, but once diplomacy fails, he believes hesitation only prolongs suffering and increases the final cost of victory.
 
-Order does not win hearts.
-
-It only prevents the worst outcomes long enough for history to judge whether it was worth it.
+When the campaign begins, General Tullius commands Imperial forces from Solitude, directing military operations throughout Skyrim. Every decision he makes is guided by the same principle that has defined his entire career: the survival of the Empire depends on order, discipline, and the willingness of its leaders to make difficult decisions for the sake of the whole. Whether history remembers him as a conqueror or a protector matters far less to him than ensuring there is still an Empire left to remember.

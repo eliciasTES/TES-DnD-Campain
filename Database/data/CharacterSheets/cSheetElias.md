@@ -170,22 +170,18 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 
 ## Backstory: *“Between Light and Bone”*
 
-Elias Venym was never meant to be a chosen instrument of opposing divinities.
+Once a devoted initiate of the Vigilants of Stendarr, Elias dedicated his life to hunting the unnatural and protecting the innocent. Years spent witnessing corruption within both mortal institutions and religious orders slowly eroded his certainty that justice could be achieved through law alone. Now he walks a path between opposing powers, serving no faction completely while carrying the blessings—and burdens—of both Meridia and Namira. His journey is driven by the search for truth, the destruction of corruption, and his determination to help Virel reclaim the life stolen from her.
 
-He was taken first by hunger, not faith.
+Elias was born into the Empire and grew up believing that discipline, service, and sacrifice gave life its purpose. As a young man, he found that purpose within the Vigilants of Stendarr. Their mission to destroy undead, Daedra, and those who preyed upon the innocent matched his own sense of justice, and he devoted himself to their teachings with unwavering determination.
 
-Born into obscurity and consumed by a Namiran cannibal cult, he was marked as both offering and sustenance in a ritual cycle that saw suffering as communion. But Elias did not break as expected. He adapted. Learned. Survived in ways that made him dangerous even before he understood why. Over time the life-siphoning rituals led by his brethren, designed to weaken a victim, made him grow stronger and opened his eyes to more than just pain and suffering.
+Life among the Vigilants taught Elias discipline, but it also exposed him to the limits of rigid doctrine. During his investigations he repeatedly encountered corruption that could not be solved through simple declarations of good and evil. Criminals hid behind respected institutions, while innocent people were condemned for circumstances beyond their control. Each mission forced him to question whether righteousness alone was enough to protect the people he had sworn to defend.
 
-When he escaped, he did not emerge cleanly into freedom. He was hunted—by those who saw him as stolen property, and by those who saw him as contamination that should not exist outside ritual control.
+As his convictions became more complicated, Elias began operating outside the expectations of the order that had trained him. He learned that some threats could only be stopped through secrecy, deception, and targeted violence. His willingness to embrace these methods eventually led him to work as a deep-cover operative within the Dark Brotherhood, using its network to eliminate individuals whose influence threatened countless others. The role demanded constant deception, forcing him to hide both his identity and his true intentions from nearly everyone around him.
 
-In time, he became something else entirely: a weapon formed from contradiction.
+During this period, Elias found himself caught between two opposing divine influences. Meridia recognized his relentless pursuit of undead and granted him her favor, strengthening his resolve against those who twisted death for power. At the same time, Namira's teachings offered uncomfortable truths about decay, suffering, and the darkness that exists within every person. Rather than surrender completely to either path, Elias chose to live with both influences, believing that understanding them was the only way to remain in control of himself.
 
-Meridia did not find him pure. She found him *useful*. A contradiction that could be refined into purpose rather than erased. Her blessing did not remove his darkness—it stabilized it, forcing it into structure.
+Years of serving conflicting causes left Elias deeply distrustful of organizations that claimed moral authority. He came to believe that every institution, no matter how noble its purpose, could become corrupted by power, fear, or pride. Instead of serving a single order, he chose exile and began following his own judgment, accepting responsibility for the consequences of every life he took.
 
-But structure is not peace.
+Elias eventually crossed paths with Virel, another exile whose life had been shattered by forces she barely understood. He recognized in her the same struggle that had shaped his own life: the search for truth while carrying burdens that others feared or rejected. Although he rarely admits his feelings openly, he has made her safety and freedom one of his highest priorities.
 
-Now Elias walks as both purifier and parasite hunter, sanctified blade and hidden rot, divine instrument and Namiran echo. He does not believe in absolutes anymore—only consequences.
-
-And every monster he kills forces him to ask whether he is cutting away corruption…
-
-…or simply defining it more precisely.
+When the campaign begins, Elias travels as a wandering spellsword and investigator, answering to no kingdom or religious order. He continues hunting undead and dismantling dangerous cults wherever he finds them while searching for evidence that may reveal whether those chosen by the gods truly serve divine purpose—or are simply pieces in a much larger design. Every decision he makes is an attempt to balance justice, necessity, and the darkness he carries within himself.

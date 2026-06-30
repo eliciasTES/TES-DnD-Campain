@@ -130,35 +130,16 @@ Hollow Breath
 
 ## Backstory: “The God Who Burned Quietly”
 
+Virel was born in Morrowind and raised within a secluded Tribunal enclave. From a young age, she devoted herself to the Temple, believing that discipline, obedience, and unwavering faith would bring her closer to the Tribunal. She was never a famous priestess or a gifted prophet. Instead, she served quietly, studying rituals, maintaining shrines, and preserving the traditions that held the enclave together.
 
-Summary
-Once a gifted pupil of a hidden Tribunal enclave, Virel was marked by a failed ritual meant to awaken divinity. It fractured her mind and bound her to whispers that are not her own. Branded a liability, she was cast out. Now, she walks the edge of sanity, wielding the dark fragments of her past as weapons. Her path is one of redemption—or unraveling.
+As she grew older, Virel's curiosity led her beyond the teachings she had been given. While studying old temple records and forgotten rites, she began asking questions that her superiors refused to answer. She wanted to understand why certain rituals had been abandoned and why parts of the Temple's history had been deliberately hidden. Her search for answers slowly isolated her from the other acolytes, who viewed her growing curiosity with suspicion.
 
+Believing she could uncover the truth without betraying her faith, Virel participated in a forbidden ritual that promised greater understanding of the divine. Instead of granting enlightenment, the ritual went terribly wrong. It left her mind fractured and filled with whispers that she could never completely silence. Since that day, she has struggled to separate her own thoughts from the voices that haunt her.
 
-Virel was once a minor acolyte within the Tribunal Temple, tasked not with miracles or prophecy, but with maintenance of ritual continuity—keeping faith stable, predictable, and clean.
+The Temple declared the ritual a failure and held Virel responsible for what had happened. Rather than risk the scandal or admit what had taken place, the enclave cast her out. Her name was removed from their records, and she was forbidden from returning. Overnight, she lost the only home and purpose she had ever known.
 
-But faith in Morrowind is never clean for long.
+Exile forced Virel to survive on her own. She wandered through forgotten ruins, abandoned shrines, and the remote corners of Morrowind, relying on the same forbidden knowledge that had ruined her life. Although the whispers often cloud her judgment, they have also taught her dangerous forms of magic that few others would dare to use. Every spell reminds her of the ritual that changed her forever.
 
-During an internal purge following the collapse of a hidden doctrinal schism, Virel was exposed to a forbidden truth buried beneath the Temple’s ceremonial layers: the gods she served were not eternal truths, but maintained constructs—delicate, failing systems held together by ritual repetition and denial.
+Despite everything that has happened, Virel has never completely abandoned her faith. Part of her still hopes to understand what truly happened during the ritual and whether the whispers are a curse, a consequence of forbidden knowledge, or something else entirely. She wants to reclaim the life that was taken from her, but she fears that the longer she follows this path, the less of herself will remain.
 
-The revelation did not break her immediately.
-
-It unraveled her slowly.
-
-When the Tribunal fractured further into competing interpretations of itself, Virel attempted to reconcile the irreconcilable through forbidden rites—blending Dunmeri ancestor rites with suppressed Daedric survivals and Temple doctrine. The result was not enlightenment, but rupture.
-
-Something answered.
-
-Not a god. Not a demon. Something left behind when belief collapses.
-
-When the Temple discovered her experiments, they did not execute her. They erased her. Records were burned. Her name was stripped from chant-lists. Her face removed from iconography. Even her existence became doctrinally “unnecessary.”
-
-But erasure does not equal death.
-
-Now Virel moves through ash-choked ruins and forgotten pilgrim paths, a shadow where doctrine used to be. She is neither priest nor heretic in any recognized sense—only the residue left when belief fails to resolve cleanly.
-
-She does not seek redemption.
-
-She seeks what was removed from her when the gods decided she was inconvenient.
-
-And every spell she casts is a reminder that even divinity leaves ash behind.
+Today, Virel travels as an outcast. To most people, she is simply another wandering Dunmer with a troubled past. Few know she was once a devoted servant of the Tribunal, and fewer still know why she was banished. She continues searching for answers, hoping to find the truth behind the ritual before the whispers consume what is left of the woman she once was.
