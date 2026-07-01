@@ -291,7 +291,7 @@ The blessing pushes Elias far beyond the limits of his mortal body. Muscles tear
 
 ---
 
-VERSION 1 - Namrian Devotee to Exlied Traitor
+## VERSION 1 - Namrian Devotee to Exlied Traitor
 
 ## Backstory: *“Between Light and Bone”*
 
@@ -316,11 +316,9 @@ Meridia eventually chose Elias as one of her champions—not because he was pure
 By the time he meets Virel, Elias has become a wandering hunter of cults, necromancers, vampires, and Daedra. He knows better than anyone how corruption begins because he once called it home.
 
 
+## VERSION 2 - Vigliant to Cult Infiltrator
 
-
-VERSION 2 - Vigliant to Cult Infiltrator
-
-# Backstory: *"The Thorn Between Dawn and Dusk"*
+## Backstory: *"The Thorn Between Dawn and Dusk"*
 
 Elias was born in the heart of the Empire to an ordinary family that valued honest work, discipline, and service. Though his childhood was unremarkable, he grew up hearing stories of Daedric cults, necromancers, vampires, and the countless horrors that preyed upon the innocent beyond the safety of city walls. To him, the world seemed simple. There were good people and evil people. Those who served the Divines protected life, while those who served the Daedra sought only to corrupt and destroy it.
 
