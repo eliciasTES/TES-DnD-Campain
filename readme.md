@@ -220,3 +220,6 @@ Planned additions include:
 ---
 
 > "Every legend begins as a single record."
+>
+> <img width="2560" height="1920" alt="Skyrim Province Map" src="https://github.com/user-attachments/assets/b1f91f14-4916-44cb-a349-28e870d75bea" />
+
