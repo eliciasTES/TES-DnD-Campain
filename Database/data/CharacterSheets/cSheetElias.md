@@ -99,11 +99,17 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 
 ## Gear & Equipment
 
-**Silver-Forged Elven Longsword**  
-→ Blessed by Meridia; strikes leave radiant burns on undead and shadow-kin. Resonates when corruption is nearby.
+**Silver-Forged Longsword**  
+→ A well-crafted but otherwise ordinary silver longsword. Like all silver weapons, it is naturally effective against undead, spirits, and certain cursed creatures. Elias augments the blade through simple weapon attunements, temporarily imbuing it with elemental or magical properties such as frost, fire, lightning, shadow, or other effects depending on the task at hand. These enchantments are practical and short-lived rather than legendary.
 
-**Namiran Relic Dagger**  
-→ Serrated ritual blade that feeds on emotional distress; glows in proximity to guilt, sin, or unresolved trauma.
+**The Dawnbreaker** *(Obtained after Meridia's Personal Quest)*  
+→ One of the Nine Daedric Artifacts of Tamriel. Gifted by Meridia to a worthy champion, Dawnbreaker radiates divine light that burns undead, daedra, and creatures born of corruption. Its strikes sear with holy fire, and powerful undead slain by the blade may erupt in cleansing explosions that destroy nearby abominations. The sword resonates in the presence of darkness and profane magic, serving as both a weapon and a beacon against evil. For Elias, obtaining Dawnbreaker marks the culmination of his journey from a capable hunter wielding an ordinary silver blade to one of Meridia's chosen champions.
+
+**Hunting Dagger**  
+→ A sturdy steel hunting dagger carried for utility as much as combat. Used for skinning game, preparing camp, cutting rope, and close-quarters defense. Like his silver sword, Elias can temporarily attune the blade with simple enchantments such as frost, fire, poison, shadow, or other practical effects to suit the situation.
+
+**Namiran Ritual Dagger** *(Obtained after Namira's Personal Quest)*  
+→ A twisted ceremonial blade forged for the servants of Namira. While dangerous on its own, its true power is only awakened when wielded alongside the **Ring of Namira**. Together, the artifacts feed upon suffering, decay, and death, allowing the dagger to drain vitality, strengthen its wielder through acts of corruption, and channel Namira's influence into devastating ritual magic. The blade seems almost alive, its edge darkening in the presence of despair, rot, and lingering curses. Though Elias uses it only when absolutely necessary, wielding the dagger always carries the risk of drawing closer to Namira's embrace.
 
 **Lightweight Meridia-Blessed Armor**  
 → Wards against curses, disease, and necrotic corruption. Silences movement when fully aligned with user intent.
@@ -119,7 +125,7 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 
 **Bandolier of Duality**  
 → Holds two attuned rings:  
-- **Ring of Emberblood:** Amplifies fire-based destruction magic  
+- **Chain of Emberblood:** Amplifies fire-based destruction magic  
 - **Ring of Silent Moan:** Dampens sound signature and suppresses detection in magical “void sense”
 
 ---
@@ -168,6 +174,15 @@ A duality forged in contradiction: radiant sanctity wrapped in predatory restrai
 
 ---
 
+### Light of the Dawnbreaker *(Champion's Last Stand)*
+
+→ When all hope is nearly lost, Elias fully accepts Meridia's blessing and surrenders himself to her divine purpose. For a single heartbeat, the world seems to stand still as time slows to an imperceptible crawl around him. Guided by Meridia's light, Elias moves with impossible speed, unleashing an inconceivable succession of perfectly executed sword strikes against a single enemy before time resumes its natural flow. Each slash carries the purifying power of Dawnbreaker, cleaving through darkness, curses, necromantic wards, and corruptive magic while burning undead, daedra, and creatures born of shadow with radiant force.
+
+To those watching, Elias appears to vanish for an instant before reappearing in his original stance as the accumulated wounds manifest all at once upon his opponent. Few beings can endure the complete assault.
+
+The blessing pushes Elias far beyond the limits of his mortal body. Muscles tear, bones strain, and his life force is nearly exhausted with every use, often leaving him barely able to stand after the attack. Elias can invoke this technique only when he is willing to sacrifice everything to protect those who stand behind him.
+
+---
 ## Backstory: *“Between Light and Bone”*
 
 Once a devoted initiate of the Vigilants of Stendarr, Elias dedicated his life to hunting the unnatural and protecting the innocent. Years spent witnessing corruption within both mortal institutions and religious orders slowly eroded his certainty that justice could be achieved through law alone. Now he walks a path between opposing powers, serving no faction completely while carrying the blessings—and burdens—of both Meridia and Namira. His journey is driven by the search for truth, the destruction of corruption, and his determination to help Virel reclaim the life stolen from her.

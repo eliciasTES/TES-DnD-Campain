@@ -80,6 +80,60 @@ A man who survives by never being important enough to remember, but always essen
 - Tendency to treat people as temporary tools in systems  
 
 
+
+## Gear & Equipment
+
+**Master Lockpick Roll**  
+→ Professionally maintained collection of lockpicks, tension tools, skeleton keys, and custom-crafted bypass instruments for everything from common doors to Dwemer mechanisms.
+
+**Guild Craftsman's Toolkit**  
+→ Compact kit containing engraving tools, jeweler's files, measuring calipers, miniature hammers, and repair implements used to restore rare artifacts and improve Guild equipment.
+
+**Concealed Utility Dagger**  
+→ A simple, well-balanced blade carried primarily as a practical tool for cutting rope, dismantling mechanisms, and emergency self-defense rather than assassination.
+
+**Merchant's Ledger Satchel**  
+→ Worn leather satchel filled with guild records, fencing inventories, client requests, maps of hidden caches, and unfinished restoration sketches.
+
+**Magnifying Lens of the Guildmaster**
+→ Finely crafted inspection lens used to examine gemstones, lock mechanisms, enchanted artifacts, and Dwemer craftsmanship with exceptional precision.
+
+---
+
+## Skills & Magic
+
+**Master Locksmith**
+→ Exceptional understanding of mechanical locks, security systems, and physical barriers. Can identify weaknesses in complex mechanisms within moments.
+
+**Artifact Restoration**
+→ Expert in repairing damaged relics, restoring historical valuables, and identifying authentic craftsmanship from convincing forgeries.
+
+**Appraisal & Authentication**
+→ Instinctively evaluates the history, rarity, construction quality, and market value of nearly any object placed before him.
+
+**Guild Logistics**
+→ Coordinates fencing operations, equipment procurement, safehouse maintenance, and underground supply networks with remarkable efficiency.
+
+**Mechanical Analysis**
+→ Quickly understands how unfamiliar devices function by observing their construction rather than relying on written documentation.
+
+---
+
+## Signature Abilities
+
+**Master Craftsman's Touch**
+→ Repairs damaged weapons, armor, jewelry, and artifacts with exceptional efficiency, often restoring functionality thought permanently lost.
+
+**Eyes of Appraisal**
+→ Instantly identifies hidden craftsmanship, concealed compartments, counterfeit goods, and unusually valuable objects overlooked by others.
+
+**Lockbreaker's Intuition**
+→ Reads the internal structure of unfamiliar locking mechanisms, dramatically reducing the time required to bypass them without causing damage.
+
+**Guild Quartermaster**
+→ Can rapidly assemble specialized equipment, contacts, and logistical support through the Thieves Guild's extensive underground network, ensuring the right tools reach the right people at the right time.
+
+
 ## Relationships
 
 - **Brynjolf:** Trusted operational leader; respects structure but avoids emotional alignment  
@@ -89,7 +143,6 @@ A man who survives by never being important enough to remember, but always essen
 - **Thieves Guild:** Functional network rather than ideological home  
 - **Elias / Virel:** Would classify them as “high-risk transit subjects requiring layered identity support and controlled exposure routes” 
 
----
 
 ## Backstory: “The Man Who Never Left the Shadows Behind”
 

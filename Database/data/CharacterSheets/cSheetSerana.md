@@ -40,7 +40,7 @@ Versatile battlefield controller combining necromantic resilience, blood magic, 
 ## Appearance
 
 - Pale, cold-toned Nord complexion with faint bluish undertones  
-- Long dark brown hair often slightly disheveled from travel or combat  
+- Shoulder-length dark brown hair often slightly disheveled from travel or combat  
 - Eyes glow faintly gold-red when vampiric power is active  
 - Slim, graceful frame with unnatural stillness in movement  
 - Presence feels quiet but pressurized, like a storm contained in glass  
@@ -104,8 +104,8 @@ A living contradiction: ancient power bound inside someone still learning autono
 **Ancient Volkihar Tome Fragments**
 → Partial spell codex containing forbidden blood and frost hybrid magic techniques.
 
-**Enchanted Vampire Royal Dagger**
-→ Weapon attuned to bloodline magic; strengthens with proximity to supernatural energy sources.
+**Umbra** *(Obtained after Serana's Personal Quest)*  
+→ One of Tamriel's most infamous Daedric artifacts. Bound to the ancient spirit of Umbra, this legendary sword possesses an insatiable hunger for souls. Those slain by its blade have their souls imprisoned within the weapon, empowering its enchantments and fueling devastating soul magic. Though the sword constantly tempts its wielder toward obsession and violence, Serana's centuries of resisting darker impulses allow her to bear its curse without surrendering to it. To others, Umbra is a corrupting relic; in Serana's hands, it becomes a reminder that darkness can be mastered without being embraced.
 
 **Frostwoven Mage Cloak**
 → Enhances cryomancy and dampens fire-based magical attacks.
@@ -156,6 +156,20 @@ A living contradiction: ancient power bound inside someone still learning autono
 
 **Eternal Step**
 → Short-range teleportation enhanced by vampiric speed and shadow displacement.
+
+---
+
+### Blood Moon Succession *(Harkon’s Final Teachings)*
+
+→ A forbidden vampiric combat art inherited from Harkon, refined for mass slaughter rather than precision dueling. Serana releases control over her bloodline magic, allowing it to propagate outward in a spreading crimson field that marks all nearby enemies as prey.
+
+Once activated, she moves through the battlefield in rapid, discontinuous bursts—reappearing between clusters of enemies rather than individual targets. Each movement triggers a cascading wave of vampiric strikes that slash through multiple foes at once, draining blood, stamina, and magical essence in overlapping arcs. The technique is designed to dismantle formations: armored ranks collapse as cohesion fails, casters lose concentration mid-incantation, and weaker enemies are consumed outright as their life force is siphoned into the surrounding crimson flow.
+
+As the field expands, victims begin to feed the technique itself. Every drained enemy strengthens the next wave of strikes, causing the battlefield to deteriorate into a widening zone of predation where survival becomes increasingly impossible for grouped forces.
+
+However, the technique is inefficient against singular, high-resilience targets. Without multiple sources of life force to sustain its chain reactions, its momentum collapses quickly, leaving only brief, scattered bursts of damage rather than sustained lethality.
+
+The aftermath leaves Serana drained and emotionally burdened, as the technique closely mirrors Harkon’s philosophy of vampiric conquest—something she wields only in moments of absolute necessity, and never without consequence.
 
 ---
 

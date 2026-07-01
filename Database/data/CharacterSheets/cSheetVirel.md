@@ -71,8 +71,11 @@ Slim, articulated boots for quiet steps.
 - Ashen Priest Robes (Fractured Vestments)
 → Lightweight ceremonial armor stripped of divine favor. Provides moderate magic resistance but reacts violently to divine enchantments.
 
-- Charred Bone Charm of Indoril Memory
-→ A relic fragment that whispers fragmented Tribunal prayers. Occasionally grants brief resistance to illusion and fear effects.
+**Vestments of the Forgotten Tribunal** *(Obtained after Virel's Personal Quest)*  
+→ Ancient ceremonial robes once worn by the highest ritual keepers before the fall of the Tribunal. Though stripped of their original divine blessing, centuries of forgotten rites and Virel's own ritual magic have transformed them into something entirely new. The vestments greatly amplify ritual casting, warding magic, and soul manipulation while allowing complex ceremonies to be performed with far less preparation. Divine magic no longer burns the robes—instead, they absorb fragments of hostile blessings and convert them into arcane energy that Virel can redirect through her rituals.
+
+**Reliquary of Indoril Memory** *(Obtained after Virel's Personal Quest)*  
+→ The restored form of the Charred Bone Charm. Bound with the memories of long-dead Tribunal priests, the reliquary grants Virel access to fragments of forgotten rites, protective wards, and ancient liturgical knowledge. During moments of great need, the voices of its former keepers briefly guide her hands, allowing rituals that would otherwise require multiple mages to perform alone.
 
 - Ash-Woven Veil Cloak
 → Blends into volcanic ash, smoke, and low-light environments. Enhances stealth in ruined or ash-covered terrain.
@@ -125,6 +128,14 @@ Ashen Reminiscence
 
 Hollow Breath
 → Releases a thin ash mist that induces hallucinations, memory lapses, and spatial disorientation in nearby foes.
+
+
+### Judgment of the Forgotten Tribunal *(Ultimate Ritual)*
+→ Virel calls upon the lingering echoes of the Tribunal—not as gods, but as memories. Ghostly figures surround the battlefield, forcing every soul within the ritual to confront the truths they have buried. Illusions shatter, summoned creatures unravel, enchantments fail, and hidden intentions are laid bare. Friend and foe alike experience fragments of their past, but only those willing to accept their burdens emerge with renewed strength. The ritual permanently scars Virel's own memories each time it is performed.
+
+
+### Ashen Apotheosis *(Forbidden Rite)*
+→ Virel relinquishes the final remnants of her former life as a Tribunal acolyte, allowing the curse within her to manifest completely. Her body dissolves into living ash, becoming untouchable by mundane weapons while every ritual and shadow spell is amplified many times over. The transformation rapidly consumes her soul, and remaining in this state for too long risks making the change permanent.
 
 
 ## Backstory: “The God Who Burned Quietly”
