@@ -1,4 +1,7 @@
-# Elias Venym — Character Summary
+
+# Act 1 Characters
+
+## Elias Venym — Character Summary
 
 Elias Venym is a dark-skinned Imperial spellsword and wandering Daedra hunter whose life is defined by the search for truth rather than unquestioning faith. Raised as an ordinary citizen of the Empire, he joined the Vigilants of Stendarr believing that good and evil were simple opposites. While operating undercover inside a cult devoted to Namira, he discovered that many of its followers were ordinary people driven there by rejection, poverty, grief, and suffering rather than malice. After exposing the cult's corrupt leadership while sparing innocent followers, Elias became disillusioned with the Vigilants' rigid worldview and left the order.
 
@@ -10,7 +13,7 @@ Throughout the story, Elias struggles to balance justice with mercy while resist
 
 
 
-# Virel — Character Summary
+## Virel — Character Summary
 
 Virel is a Dunmer shadowblade and former Tribunal acolyte whose life was shattered by a forbidden ritual that left her spiritually scarred and exiled from everything she once believed. Once a devoted servant of the Tribunal Temple, she became the victim of corruption hidden within its ranks, leaving her with fragmented memories, unstable shadow magic, and a deep uncertainty about her own identity. Though many consider her cursed, Virel refuses to let her past define her.
 
@@ -21,4 +24,69 @@ Virel is intelligent, observant, and quietly compassionate beneath a reserved ex
 Traveling alongside Elias gives her someone who judges her by her choices instead of her past. Their shared experiences as exiles create a relationship built on mutual respect, quiet understanding, and growing trust rather than dramatic declarations. While Elias seeks truth by understanding darkness, Virel seeks truth by reclaiming the pieces of herself that darkness tried to take away.
 
 Throughout the story, Virel's journey is one of restoration rather than redemption. She is not trying to become someone new—she is becoming whole again while uncovering forgotten histories, confronting ancient conspiracies, and choosing her own future instead of the one others tried to impose upon her.
+
+
+## Namira 1
+
+Namira appears as a breathtakingly beautiful yet deeply unsettling woman. She has long, silky black hair that falls in tangled waves around her face, framing pale, ashen skin that seems to absorb the light around her. Her eyes are dark, ancient, and hypnotic, carrying an unsettling hunger behind an amused smile.
+
+She walks barefoot, her medium-length fingernails and toenails sharpened into elegant claws. Loose charcoal-black robes drape over her slender form, accented with deep crimson cloth and embroidery around her waist resembling spreading veins or dried blood. She wears polished obsidian bracelets, anklets, and a heavy brass-colored ring engraved with leathery bat wings wrapped around a central point.
+
+The air around her smells of damp earth, moss, extinguished candles, and forgotten graves. She is irresistibly alluring, but every instinct warns that something beneath her beauty is profoundly wrong—a goddess of darkness, decay, and forbidden temptation.
+
+
+## Namira 2
+
+She stood with the quiet confidence of a queen, impossibly beautiful at first glance, yet every instinct whispered that something about her was terribly wrong. Her features possessed an almost supernatural elegance, but they lacked warmth, as though sculpted from lifeless marble that had never known the touch of the sun.
+
+Long, silky black hair fell well past her shoulders in tangled waves, its deliberate disorder framing her face like a veil of shadow. Strands drifted across pale cheeks and cold gray lips, giving her an appearance that was both wild and regal. Her skin was unnaturally white, not with the healthy glow of porcelain, but with the dull, ashen pallor of something that had long been separated from life. In certain light it seemed to absorb brightness rather than reflect it.
+
+Her eyes were captivating—deep, dark pools that drew the gaze effortlessly—yet they held no comfort. Ancient hunger lingered behind them, patient and knowing, as though they had witnessed countless mortals surrender to despair, disease, and temptation. A faint smile often rested upon her lips, never kind, always amused, as though she delighted in secrets only she understood.
+
+She walked barefoot across stone, mud, and bone alike without the slightest hesitation. Her feet remained impossibly clean despite the filth around her. Medium-length nails tipped both her fingers and toes, dark and sharpened into elegant points that resembled the claws of a patient predator more than the grooming of a noblewoman.
+
+Loose robes of charcoal and midnight black draped effortlessly over her slender form, their layered fabric flowing like smoke around her movements. The garments concealed more than they revealed, hanging just enough to suggest grace while never diminishing the unsettling aura that surrounded her. Around her waist and lower torso, deep crimson embroidery and strips of blood-red cloth formed intricate patterns resembling veins, roots, or slowly spreading stains, giving the impression that the robes themselves were feeding upon her.
+
+Her jewelry was sparse but unmistakable. Polished obsidian bracelets encircled her wrists, catching only the faintest glimmer of light. Matching anklets chimed softly with each silent step, their delicate sound oddly out of place amid the stillness. Around one finger rested a heavy brass-colored ring, worn smooth by ages beyond counting. Its broad face bore a striking emblem: two dark, leathery bat wings folded inward around a single central point, as if sheltering—or imprisoning—something hidden within.
+
+The air surrounding her carried no perfume. Instead, it bore the faint scent of damp earth after rain, extinguished candles, moss-covered stone, and flowers left too long upon forgotten graves. Standing close to her inspired an instinctive unease, a primal certainty that one should step away, yet many found themselves unable to do so.
+
+She was not the monstrous horror whispered about in frightened stories. She was something far more dangerous—a goddess whose beauty invited mortals to lower their guard, only to discover that decay, darkness, and revulsion had been waiting behind her smile all along.
+
+
+## Meridia 1
+
+Meridia appears as a radiant woman of flawless, divine beauty, surrounded by a warm golden glow. Her long hair shines like spun sunlight, and her luminous ivory skin seems to produce light rather than reflect it. Her brilliant amber-gold eyes are unwavering, revealing every flaw with quiet certainty.
+
+She walks barefoot, leaving faint golden motes that quickly fade. Flowing robes of white, cream, and gold cascade around her, embroidered with elegant sunburst patterns. She wears delicate jewelry of polished gold, crystal, and amber, along with a radiant gold ring bearing the emblem of a many-rayed sun.
+
+The air around her carries the scent of fresh wildflowers, clean linen, and the warmth of dawn. Her presence inspires awe rather than comfort. She embodies light, order, and purity with uncompromising resolve—the living opposite of Namira's darkness and decay.
+
+
+## Meridia 2
+
+She appeared as though she had stepped from the heart of the sun itself, her presence filling every corner of the room with warm, radiant light. There was no darkness clinging to her, no mystery hidden behind veils or shadows. Everything about her was open, brilliant, and impossible to ignore. To behold her was to feel simultaneously uplifted and judged.
+
+Her features possessed a flawless, timeless beauty that bordered on the divine. Every line of her face seemed perfectly balanced, sculpted with impossible precision, leaving no trace of age, weariness, or imperfection. Though she often wore a gentle smile, it carried the quiet certainty of someone who had already seen the truth of every soul before her.
+
+Long hair of shimmering gold cascaded in graceful waves to the small of her back, each strand catching the light like spun sunlight. Even in complete darkness it seemed to glow with its own inner radiance, moving as though stirred by a breeze that only she could feel.
+
+Her skin bore the warm, luminous tone of polished ivory kissed by dawn. Rather than reflecting light, it seemed to create it, bathing her surroundings in a soft golden halo. Where Namira absorbed the light around her, Meridia became its source.
+
+Her eyes shone with brilliant amber and molten gold, their irises flecked with radiant white that resembled stars suspended within liquid sunlight. They were neither cruel nor gentle, but unwavering. Looking into them felt as though every lie, every weakness, and every hidden corner of one's soul had been laid bare beneath an unforgiving light.
+
+She walked barefoot upon earth and stone alike, yet every step left behind the faint shimmer of golden motes that dissolved moments later. Her feet never gathered dust, and wherever they passed, wilted grass straightened and flowers subtly turned toward her. Her fingernails and toenails were smooth and polished, like carved amber, immaculate without appearing ornamental.
+
+She wore flowing robes of brilliant white layered with soft creams and pale golds that shifted subtly with every movement, resembling clouds illuminated by the morning sun. The fabric seemed almost weightless, cascading around her in elegant folds that caught the light from every angle. Across her shoulders, sleeves, and flowing hem, intricate embroidery of gold thread formed geometric patterns reminiscent of rays of sunlight, blooming flowers, and the wings of celestial beings.
+
+Around her waist rested a broad sash woven from shimmering strands of white and gold, fastened by a polished sunburst clasp of burnished electrum. Delicate jewelry adorned her wrists, ankles, and neck, fashioned from gold, amber, and flawless crystal. Rather than glittering extravagantly, each piece emitted a quiet radiance, as though imbued with a fragment of dawn itself.
+
+Upon the ring finger of her right hand rested a luminous gold ring whose face bore the image of a many-rayed sun encircled by a halo of crystal. Its polished surface never dulled, and those who gazed upon it too long often found themselves blinking away tears from its brilliance.
+
+The air around her carried the scent of wildflowers after spring rain, fresh linen dried beneath an open sky, and the crisp fragrance that lingers in the moments before sunrise. Warmth radiated gently from her presence—not the heat of fire, but the life-giving warmth of daylight upon skin after a long winter.
+
+To stand before Meridia was to feel impossibly small beneath an endless sky. Her beauty inspired hope, courage, and wonder, yet beneath that brilliance lay an undeniable severity. She embodied life, light, and the relentless banishment of corruption. Mercy was not among her greatest virtues. Like the sun itself, she illuminated all things equally, whether they wished to be seen or not.
+
+She was no comforting guardian. She was the inexorable light that scattered every shadow, the dawn that ended every night, and the radiant certainty that there could be no refuge where her gaze fell.
+
 
