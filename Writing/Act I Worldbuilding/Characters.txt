@@ -11,6 +11,28 @@ Elias is calm, analytical, and emotionally restrained. He speaks softly, rarely 
 
 Throughout the story, Elias struggles to balance justice with mercy while resisting the temptation to become either a fanatic or a cynic. His relationship with Virel gradually becomes the one constant in a life spent wandering between light and darkness. Together they investigate supernatural mysteries, dismantle dangerous cults, and confront ancient forces that threaten Tamriel.
 
+### Long Term Armor 1
+
+Arcane Brigandine
+
+He wears a custom-made suit of arcane brigandine, crafted for a spellsword who values agility, perception, and precision over brute strength. Its foundation is a fitted black gambeson lined with enchanted mageweave, covered by overlapping panels of dark oil-treated leather reinforced with thin hidden plates of blued spring steel. The armor protects the body's vital areas while preserving complete freedom of movement for swordplay and spellcasting.
+
+A dark leather coat falls to mid-thigh, split at the front and back for mobility. Broad layered spaulders protect the shoulders without restricting the arms, while reinforced leather vambraces conceal engraved steel splints etched with subtle runic channels that shimmer faintly when magic flows through them. Thin leather gloves preserve dexterity for intricate spellcasting gestures.
+
+The chest bears a polished bronze sunburst medallion mounted over the heart, serving as both a symbol and an enchanted focus for protective wards. A sturdy belt supports potion pouches, spell components, utility tools, and a sword scabbard, while reinforced leather cuisses and articulated knee guards protect the legs without sacrificing speed. High leather boots with hidden steel reinforcement provide exceptional grip, ankle support, and silent footing.
+
+The armor is finished in charcoal black with dark bronze fittings and restrained gold accents, giving it the appearance of a seasoned battlemage rather than a heavily armored knight. It is meticulously maintained, bearing only faint signs of countless battles, and radiates quiet competence instead of ostentatious heroism. It offers excellent protection against blades, arrows, and hostile magic while remaining light enough for rapid movement, evasive footwork, and fluid transitions between swordsmanship and spellcasting.
+
+### Long Term Armor 2
+
+Arcane Brigandine: A custom suit of lightweight battlemage armor built for agility, precision, and spellcasting. It consists of a fitted black gambeson lined with enchanted mageweave beneath overlapping panels of dark oil-treated leather reinforced with hidden blued spring steel plates. A charcoal leather coat falls to mid-thigh, paired with layered spaulders, reinforced vambraces engraved with subtle runes, fitted gloves, leather cuisses, articulated knee guards, and high reinforced boots for silent, agile movement.
+
+A polished bronze sunburst medallion rests over the heart, serving as both a symbol and magical focus for protective wards. Finished in charcoal black with dark bronze fittings and restrained gold accents, the armor offers excellent protection against blades, arrows, and hostile magic while remaining light enough for fluid swordsmanship and effortless spellcasting. It appears practical, well-crafted, and built for a seasoned spellsword rather than a heavily armored knight.  It was crafted by Balimund of the Scorched Hammer in Riften.
+
+
+### Foaming Wave Bow
+
+Foaming Wave is a masterfully crafted recurved longbow carved from pale hardwood with flowing wave-like engravings along its limbs. A richly carved golden grip rests comfortably in the hand, while dark leather bindings secure a taut black bowstring. Lightweight, quiet, and exceptionally balanced, it favors precision, speed, and graceful accuracy over raw power, making it the ideal weapon for skilled hunters, scouts, and arcane archers. It was crafted by Balimund of the Scorched Hammer in Riften.
 
 
 ## Virel — Character Summary
@@ -24,6 +46,15 @@ Virel is intelligent, observant, and quietly compassionate beneath a reserved ex
 Traveling alongside Elias gives her someone who judges her by her choices instead of her past. Their shared experiences as exiles create a relationship built on mutual respect, quiet understanding, and growing trust rather than dramatic declarations. While Elias seeks truth by understanding darkness, Virel seeks truth by reclaiming the pieces of herself that darkness tried to take away.
 
 Throughout the story, Virel's journey is one of restoration rather than redemption. She is not trying to become someone new—she is becoming whole again while uncovering forgotten histories, confronting ancient conspiracies, and choosing her own future instead of the one others tried to impose upon her.
+
+## Virel 2
+
+Virel is a Dunmer shadowblade and former Tribunal acolyte She has ash-grey skin with burn-scarred arms from magical experimentation. Short, jagged white hair usually hidden beneath a hood. Glowing amber eyes, obscured by dark kohl. Wears layered leathers with metal bone accents from fallen enemies  
+
+Dark, Lightweight ceremonial robe armor. Sleek, flexible for agility. Matte finish to reduce light reflection.
+Primary Color: Deep indigo-black.
+Accent Color: Tarnished silver trims, hints of dark crimson. Hooded cowl with a narrow, angled visor for anonymity. Reinforced shoulder guards with claw-like patterns. Bracers lined with hidden compartments (for tools like poisons or smoke bombs). Lightweight chest plate with engraved runes that suppress sound. Layered half-skirt of leather panels for leg protection without limiting movement. Slim, articulated boots for quiet steps.
+
 
 
 ## Namira 1
