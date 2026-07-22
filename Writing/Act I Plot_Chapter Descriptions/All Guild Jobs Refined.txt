@@ -1,0 +1,286 @@
+# Brainstorming Thieves Guild Jobs
+
+## Design Philosophy
+
+The mission shouldn't be **impossible**—it should simply be a **bad fit for the Guild's best members**.
+
+If Brynjolf, Vex, or Delvin could solve it in a single night, there is no reason to send the new guy.
+
+Instead, each job should exploit one of the Guild's weaknesses while naturally highlighting one of Elias' strengths.
+
+---
+
+# V1: Eliminate a Rival Smuggling Operation ⭐⭐⭐⭐⭐
+
+### Why the Guild Can't Do It
+
+The rival gang knows the Thieves Guild.
+
+They've memorized the faces of Brynjolf, Vex, Delvin, and several other members. Their hideout is full of lookouts specifically watching for known Guild operatives.
+
+Sending a veteran would immediately expose the Guild's involvement.
+
+Elias is an unknown outsider.
+
+Even if someone notices him, they assume he's just another wandering mercenary or traveler.
+
+### Why Elias Succeeds
+
+- Unknown face
+- Strong investigator
+- Can pose as a hired sword
+- Spellblade abilities if the mission turns violent
+- Can quietly eliminate guards if necessary
+
+**Overall feel:** Spy thriller mixed with organized crime.
+
+---
+
+# V2: Protect a Secret Meeting ⭐⭐⭐⭐☆
+
+### Why the Guild Can't Do It
+
+The Guild isn't allowed to appear involved.
+
+If Brynjolf or Vex are seen near the meeting, everyone immediately knows the Thieves Guild is protecting Maven.
+
+Elias can work independently without drawing suspicion.
+
+### Why Elias Succeeds
+
+- Unknown to Riften's criminal circles
+- Vigilant training makes him observant
+- Patient investigator
+- Able to notice inconsistencies and suspicious behavior
+- Capable fighter if the assassination attempt succeeds
+
+**Overall feel:** Detective story with infiltration and rooftop chase.
+
+---
+
+# V3: Recover a Guild Informant ⭐⭐⭐⭐⭐
+
+### Why the Guild Can't Do It
+
+One of Maven's spies disappeared after discovering valuable information.
+
+Nobody knows if the informant:
+
+- Was captured
+- Betrayed the Guild
+- Is working for another organization
+- Is being coerced
+
+Brynjolf wants the truth before acting.
+
+Delvin personally recruited the informant, making him emotionally involved.
+
+Brynjolf doesn't want loyalty clouding judgment.
+
+### Why Elias Succeeds
+
+- No personal attachment
+- Objective investigator
+- Good at gathering information
+- Can infiltrate hostile territory
+- Capable of making difficult moral decisions
+
+**Overall feel:** Investigation with moral ambiguity.
+
+---
+
+# V4: The Haunted Strongbox ⭐⭐⭐⭐⭐
+
+### Why the Guild Can't Do It
+
+Every thief assumes the haunting is superstition.
+
+Then they disappear.
+
+Now nobody wants the assignment.
+
+The Guild has no interest in losing more experienced members.
+
+### Why Elias Succeeds
+
+The Guild gets lucky.
+
+They have no idea Elias trained with the Vigilants of Stendarr.
+
+His experience with undead, cursed relics, and restless spirits gives him an advantage no ordinary thief possesses.
+
+The Guild doesn't recruit him because of these skills—they simply discover them during the mission.
+
+**Overall feel:** Supernatural burglary.
+
+---
+
+# V5: Destroy Evidence ⭐⭐⭐☆☆
+
+### Why the Guild Can't Do It
+
+Evidence linking Maven to numerous crimes has been seized.
+
+However, the location is heavily guarded by Imperial officials.
+
+Every known Guild member is already being watched.
+
+If Brynjolf or Vex are spotted, it becomes an international incident involving the Empire.
+
+### Why Elias Succeeds
+
+- Completely unknown
+- Can pass as a traveler
+- Comfortable operating alone
+- Spellblade abilities help overcome magical security if things go wrong
+
+**Overall feel:** High-risk espionage.
+
+---
+
+# V6: Lost Shipment in the Ratway ⭐⭐⭐⭐☆
+
+### Why the Guild Can't Do It
+
+A valuable shipment vanished beneath Riften.
+
+Everyone assumes ordinary bandits were responsible.
+
+Experienced Guild members investigate...
+
+...and never return.
+
+The Guild suspects something magical has taken over part of the Ratway.
+
+### Why Elias Succeeds
+
+- Comfortable fighting when stealth fails
+- Can investigate strange magical occurrences
+- Strong enough to retrieve the shipment without needing backup
+
+**Overall feel:** Urban dungeon crawl.
+
+---
+
+# General Guild Weakness
+
+One of the Guild's biggest problems is simple:
+
+**They're too recognizable.**
+
+Brynjolf could explain it like this:
+
+> "Every guard in Riften knows my face."
+
+> "Every merchant knows Vex."
+
+> "Half the city owes Delvin money."
+
+> "You're the only one who can walk through the front gate."
+
+Elias isn't valuable because he's stronger.
+
+He's valuable because he's **invisible**.
+
+---
+
+# Rankings
+
+## 1. Recover the Guild Informant ⭐⭐⭐⭐⭐
+
+Strengths:
+
+- Investigation
+- Moral choices
+- Stealth
+- Social encounters
+- Infiltration
+
+Very Elder Scrolls.
+
+---
+
+## 2. Rival Smuggling Operation ⭐⭐⭐⭐⭐
+
+Strengths:
+
+- Organized crime
+- Directly benefits Maven
+- Espionage
+- Sabotage
+- Stealth
+
+Excellent introduction to Guild work.
+
+---
+
+## 3. Haunted Strongbox ⭐⭐⭐⭐⭐
+
+Strengths:
+
+- Unique
+- Shows Elias' Vigilant background naturally
+- Strong atmosphere
+
+Less connected to Maven's business interests.
+
+---
+
+## 4. Protect the Secret Meeting ⭐⭐⭐⭐☆
+
+Strengths:
+
+- Political intrigue
+- Detective work
+- Excellent climax potential
+
+---
+
+## 5. Lost Shipment ⭐⭐⭐⭐☆
+
+Strengths:
+
+- Great dungeon chapter
+- Needs one memorable twist
+
+---
+
+## 6. Destroy Evidence ⭐⭐⭐☆☆
+
+Still good, but feels like a mission better suited for a veteran Guild member rather than Elias' first major assignment.
+
+---
+
+# Combined Mission Idea (Favorite)
+
+Instead of choosing between V1 and V3, combine them.
+
+## Chapter 1
+
+Brynjolf sends Elias to investigate a rival organization stealing Guild smuggling routes.
+
+Because nobody recognizes Elias, he can infiltrate the operation without exposing the Guild.
+
+During the investigation, Elias discovers the missing Guild informant.
+
+The mission suddenly becomes much larger than expected.
+
+---
+
+## Chapter 2
+
+Elias must decide whether the informant is:
+
+- Loyal
+- A traitor
+- Being coerced
+
+He rescues (or confronts) the informant, sabotages the rival headquarters so it appears to be an accident, escapes, and returns to the Guild.
+
+Brynjolf realizes Elias has proven himself.
+
+He arranges Elias' long-awaited meeting with Maven Black-Briar.
+
+The reward isn't gold.
+
+It's **information**—the location of Virel.
