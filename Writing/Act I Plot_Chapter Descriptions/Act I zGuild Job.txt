@@ -18,7 +18,7 @@ Elias must decide whether the informant is:
 - A traitor
 - Being coerced
 
-He rescues (or confronts) the informant, sabotages the rival headquarters so it appears to be an accident, escapes, and returns to the Guild.
+He rescues (or confronts) the informant, sabotages the rival headquarters so it appears to be an accident, escapes, and returns to the Guild. This prevents the leader/financer of the organization to reconsider if competing with the guild is worth the trouble and investment again.
 
 Brynjolf realizes Elias has proven himself.
 

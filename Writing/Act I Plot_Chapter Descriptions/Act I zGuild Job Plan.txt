@@ -1,0 +1,76 @@
+# Operation: Broken Route
+
+## Mission Objective
+
+Determine who is stealing Guild smuggling routes, identify the organization behind it, and cripple their operation without exposing the Thieves Guild.
+
+---
+
+# Brynjolf's Plan
+
+## Phase 1 — Reconnaissance
+
+- Travel to the suspected smuggling warehouse on Lake Geir.
+- Confirm whether the rival organization is operating from the location.
+- Avoid detection.
+
+---
+
+## Phase 2 — Infiltration
+
+- Enter the headquarters after nightfall.
+- Search for ledgers, maps, shipping manifests, and correspondence.
+- Identify the organization's leader and primary financier.
+- Leave everything appearing undisturbed.
+
+---
+
+## Phase 3 — Confirm the Informant's Fate
+
+If the missing Guild informant is found:
+
+- Determine whether they are:
+  - Loyal
+  - A traitor
+  - Acting under coercion
+- Bring them back alive if possible.
+- If betrayal is confirmed beyond doubt, Brynjolf authorizes Elias to deal with them as he sees fit.
+
+---
+
+## Phase 4 — Sabotage
+
+Before leaving:
+
+- Destroy the organization's merchandise.
+- Disable their warehouse and smuggling equipment.
+- Leave evidence suggesting an accidental fire, structural collapse, or alchemical explosion.
+- Avoid leaving evidence linking the Guild to the attack.
+
+---
+
+## Phase 5 — Escape
+
+- Exit before guards organize.
+- Use predetermined escape routes through the marshes or waterways.
+- Return directly to the Ragged Flagon.
+
+---
+
+# Rules
+
+- The Guild must remain anonymous.
+- Avoid unnecessary killing.
+- Recover information before destroying anything.
+- The Guild wants the operation crippled—not a public gang war.
+- If the mission goes wrong, Elias is on his own.
+
+---
+
+# Expected Outcome
+
+- Rival smuggling operation destroyed.
+- Guild routes secured.
+- Missing informant accounted for.
+- Rival investors discouraged from funding future competition.
+- Elias earns Brynjolf's trust and a meeting with Maven Black-Briar.

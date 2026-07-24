@@ -1,0 +1,80 @@
+Elias Venym is a dark-skinned Imperial spellsword and wandering Daedra hunter whose life is defined by the search for truth rather than unquestioning faith. Raised as an ordinary citizen of the Empire, he joined the Vigilants of Stendarr believing that good and evil were simple opposites. While operating undercover inside a cult devoted to Namira, he discovered that many of its followers were ordinary people driven there by rejection, poverty, grief, and suffering rather than malice. After exposing the cult's corrupt leadership while sparing innocent followers, Elias became disillusioned with the Vigilants' rigid worldview and left the order.
+
+Virel is a Dunmer shadowblade and former Tribunal acolyte whose life was shattered by a forbidden ritual that left her spiritually scarred and exiled from everything she once believed. Once a devoted servant of the Tribunal Temple, she became the victim of corruption hidden within its ranks, leaving her with fragmented memories, unstable shadow magic, and a deep uncertainty about her own identity. Though many consider her cursed, Virel refuses to let her past define her.
+
+Elias Venym and Virel later travel Skyrim as wandering exiles with no permanent home, no allegiance to any kingdom or religious order, and no desire for fame. Though they come from very different backgrounds, both have been betrayed by the institutions they once trusted and now rely only on one another.
+
+Elias is in Riften searching for Virel who he assumes is somewhere within the Ratway a maze of sewers and corridors below the city. 
+
+A festival dedicated to the one of the 9 Divines, Mara, called "The Festival of Love" is entering its second day. The town of Riften has been transformed into a circus of partying, activities, street vendors and overall fun.
+
+Elias makes his way through the Ratway and manages to find the Ragged Flagon. After becoming acquainted with the prominent members of the guild Vekel the Man, Vex, Delvin and, Brynjolf he learns that the most dangerous person is Riften had a run in with a Dunmer woman that could be Virel.
+
+The Thieves guild members agree to set up a meeting with Maven so Elias can find out if the woman is Virel and where she is now, however Elias first has to pull a job for them and earn the trust of the guild. 
+
+The mission is for him to investigate and disrupt a rival organization stealing Guild smuggling routes.
+
+The Guild has lost contact with an informant who was sent to gather information, but they haven't heard anything from him in weeks. They don't want to risk the safety of one of their valuable high level guild members but none of the replaceable recruits have the skill to pull off the job. 
+
+The rival crime organization has memorized the faces of Brynjolf, Vex, Delvin, and several other high-ranking members. Their hideout is full of lookouts specifically watching for known Guild operatives.
+
+Elias is an unknown outsider and even if someone notices him, they assume he's just another wandering mercenary or traveler.
+
+The plan is to:
+
+- Scout the rival regional logistics hub located on Lake Geir to the east and identify entrances, patrols, and escape routes.
+- Infiltrate the hideout after dark without revealing any connection to the Thieves Guild.
+- Search for shipping manifests, route maps, and correspondence identifying the leader and financier of the operation.
+- Determine the fate of the missing Guild informant and decide whether he is loyal, a traitor, or acting under coercion.
+- Sabotage the warehouse, supplies, and smuggling equipment so the destruction appears to be an accident.
+- Escape before reinforcements arrive and return to the Ragged Flagon with whatever information can be recovered.
+
+If the mission fails, the Guild will deny any involvement.
+
+The Guild provides Elias with:
+
+- A rough map of the warehouse district with an old smuggling tunnel marked.
+- A set of caravan worker clothes so he can move through the area without standing out.
+- One contact, a caravan worker loyal to Maven, who can create a single distraction or quietly unlock a gate at the right moment.
+- An emergency boatman waiting at a designated canal if Elias manages to escape the compound.
+
+The personal gear Elias has- a small waterskin, a single potion of healing, a handful of empty glass flasks, a magical flower he’d salvaged from the Ratway, flint and steel, his custom grappling hook.
+
+# Lake Geir Trading Company 	
+
+The rival organization operates from a prosperous-looking trading company on the eastern shore of Lake Geir, north of Ivarstead. From a distance it appears to be a legitimate freight company moving goods between Riften, Whiterun, and Eastmarch. There is a team of smugglers who move illegal goods out of a hidden dock and cove on the southeast corner of the compound. The main office is located on the southwest side overlooking the lake.
+
+## Exterior
+
+- Large timber warehouse overlooking the lake.
+- Long wooden docks with several cargo barges.
+- Freight yard filled with wagons, crates, barrels, and lumber.
+- Stable and wagon repair shed.
+- Small office used for ledgers and contracts.
+- Watchtower overlooking the road and shoreline.
+- Wooden palisade with a single guarded gate.
+
+## Interior
+
+The warehouse is packed with stacked cargo, narrow aisles, pulley cranes, and elevated catwalks where guards patrol overhead.
+
+Behind the warehouse is a counting office containing shipping manifests, route maps, and business records. Beneath the office is a locked cellar where the true smuggling ledgers, coded correspondence, and investor records are hidden.
+
+A concealed tunnel beneath the warehouse leads to a small hidden cove where contraband is quietly loaded onto boats at night.
+
+## Security
+
+- Guards dressed as caravan mercenaries.
+- Workers challenge unfamiliar faces but avoid unnecessary attention.
+- Regular patrols between the docks, warehouse, office, and gate.
+- A bell in the watchtower can alert the entire compound.
+- Hidden escape boats wait in the cove.
+
+## Atmosphere
+
+The regional logistics hub feels like a successful trading company rather than a bandit camp. Laborers load cargo, merchants inspect shipments, horses pull wagons through the yard, and ledgers are constantly being updated. Everything appears lawful until closer inspection reveals false merchant seals, suspicious cargo, and heavily guarded records that no ordinary business would need.
+
+
+We open the chapter with Elias making his way through Riften heading toward the boat on the docks that the guild had prepared to take him to Ivarstead to the west. From there he would don his disguise, prepare his gear and head toward the smuggling operation on the lake.
+
+
